@@ -1,13 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Formax - Creative Agency Bootstrap Template</title>
+	<title>Plugg Resources | Creative, rhythmic technology</title>
 	
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="author" content="Webestica.com">
-	<meta name="description" content="Bootstrap Based Creative Agency Template">
+
+  <meta name="msapplication-TileImage" content="assets/images/favicon.ico">
+ 
+	<meta property="og:site_name" content="Plugg Resources">
+	<meta property="og:title" content="Plugg Resources">
+	<meta property="og:description" content="An Online Web Development and Graphic Design Collective specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
+
+	<meta property="og:image" itemprop="image" content="assets/images/favicon.ico">
+
+	<meta property="og:type" content="website">
+	<meta property="og:image:type" content="image/png">
+
+	<meta property="og:image:width" content="300">
+	<meta property="og:image:height" content="300">
+
+	<meta property="og:url" content="https://pluggresources.com">
+
 
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="assets/images/favicon.ico">
@@ -55,6 +70,10 @@
         height: 100%;
       }
 
+      .swiper-wrapper {
+        /* width: 100%; */
+      }
+
       .swiper-slide {
         /* text-align: center; */
         /* font-size: 18px; */
@@ -74,7 +93,7 @@
         -webkit-align-items: center;
         align-items: center;
       }
-
+      
       .swiper-slide img {
         display: block;
         width: 100%;
@@ -108,7 +127,7 @@ Header START -->
 	<nav class="navbar navbar-expand-lg">
 		<div class="container">
 			<!-- Logo START -->
-			<a class="navbar-brand" href="index.html">
+			<a class="navbar-brand" href="index.php">
 				<img class="navbar-brand-item" src="assets/images/logo.svg" alt="logo">			
 			</a>
 			<!-- Logo END -->
@@ -122,98 +141,24 @@ Header START -->
 			<div class="collapse navbar-collapse" id="navbarCollapse">
 				<ul class="navbar-nav navbar-nav-scroll mx-auto">
 					<!-- Nav item 1 Home -->
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="homeMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</a>
-						<!-- Dropdown menu -->
-						<ul class="dropdown-menu" aria-labelledby="homeMenu">
-							<li> <a class="dropdown-item active" href="index.html">Home 01</a> </li>
-							<li> <a class="dropdown-item" href="index-2.html">Home 02</a> </li>	
-							<li> <a class="dropdown-item" href="index-3.html">Home 03</a> </li>	
-						</ul>
-					</li>
+					<li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
 
 					<!-- Nav item 2 About -->
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="aboutMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
-						<!-- Dropdown menu -->
-						<ul class="dropdown-menu" aria-labelledby="aboutMenu">
-							<li> <a class="dropdown-item" href="about.html">About us 01</a> </li>
-							<li> <a class="dropdown-item" href="about-2.html">About us 02</a> </li>	
-						</ul>
-					</li>
+					<li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 
-					<!-- Nav item 3 Pages -->
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="pageMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
-						<!-- Dropdown menu -->
-						<ul class="dropdown-menu" aria-labelledby="pageMenu">
-							<!-- Submenu  -->
-							<li class="dropdown-submenu dropend">
-								<a class="dropdown-item dropdown-toggle" href="#">Case study</a>
-								<ul class="dropdown-menu" data-bs-popper="none">
-									<li> <a class="dropdown-item" href="case-study.html">Case study</a> </li>
-									<li> <a class="dropdown-item" href="case-study-detail.html">Case study detail</a> </li>									
-								</ul>
-							</li>
+					<!-- Nav item 3 Pricing -->
+					<li class="nav-item"><a class="nav-link" href="pricing.php">Pricing</a></li>
 
-							<!-- Submenu  -->
-							<li class="dropdown-submenu dropend">
-								<a class="dropdown-item dropdown-toggle" href="#">Service</a>
-								<ul class="dropdown-menu" data-bs-popper="none">
-									<li> <a class="dropdown-item" href="service.html">Service</a> </li>
-									<li> <a class="dropdown-item" href="service-detail.html">Service detail</a> </li>									
-								</ul>
-							</li>  
-
-							<li> <a class="dropdown-item" href="pricing.html">Pricing</a> </li>	
-							<li> <a class="dropdown-item" href="team.html">Team</a> </li>	
-							<li> <a class="dropdown-item" href="error.html">Error</a> </li>
-							<li> <a class="dropdown-item" href="faq.html">Faqs</a> </li>
-							<li> <a class="dropdown-item" href="careers.html">Careers</a> </li> 
-
-							<!-- Submenu  -->
-							<li class="dropdown-submenu dropend">
-								<a class="dropdown-item dropdown-toggle" href="#">Blog</a>
-								<ul class="dropdown-menu" data-bs-popper="none">
-									<li> <a class="dropdown-item" href="blog.html">Blog</a> </li>
-									<li> <a class="dropdown-item" href="blog-detail.html">Blog details</a> </li>									
-								</ul>
-							</li>								          
-						 	
-							<li> <a class="dropdown-item" href="maintenance-mode.html">Maintenance mode</a> </li>
-							<!-- Submenu  -->
-							<li class="dropdown-submenu dropend">
-								<a class="dropdown-item dropdown-toggle" href="#">Authentication</a>
-								<ul class="dropdown-menu" data-bs-popper="none">
-									<li> <a class="dropdown-item" href="sign-in.html">Sign in</a> </li>
-									<li> <a class="dropdown-item" href="sign-up.html">Sign up</a> </li>
-									<li> <a class="dropdown-item" href="password-recovery.html">Password recovery</a> </li>
-								</ul>
-							</li>              
-						</ul>						
-					</li>
-
-					<!-- Nav item 4 Contact -->
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="contactMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact</a>
-						<!-- Dropdown menu -->
-						<ul class="dropdown-menu" aria-labelledby="contactMenu">
-							<li> <a class="dropdown-item" href="contact-us.html">Contact us 01</a> </li>
-							<li> <a class="dropdown-item" href="contact-us-2.html">Contact us 02</a> </li>	
-						</ul>
-					</li>
-
-          <!-- Nav item 4 Component-->
-					<li class="nav-item"><a class="nav-link" href="docs/font-icons.html">Components</a></li>
+          <!-- Nav item 4 Contact-->
+					<li class="nav-item"><a class="nav-link" href="contact-us.php">Contact</a></li>
 				</ul>
 			</div>
 			<!-- Main navbar END -->
 
 			<!-- Nav right START -->
-			<div class="d-none d-sm-block">
+			<div class="blog-btn-div">
 				<!-- Nav Button -->
-				<a href="sign-in.html" class="btn btn-link text-white mb-0">Login</a>
-				<a href="sign-up.html" class="btn btn-dark mb-0 mx-2">Sign up</a>
+				<a href="#" class="blog-btn btn btn-dark mb-0 mx-2">Visit our Blog</a>
 			</div>
 			<!-- Nav right END -->
 
@@ -232,7 +177,7 @@ Main banner START -->
 <section class="bg-primary position-relative">
 
 	<!-- Svg START -->
-	<figure class="mb-0 position-absolute bottom-0 start-0 d-none d-lg-block">  
+	<!-- <figure class="mb-0 position-absolute bottom-0 start-0 d-none d-lg-block">  
 		<svg class="fill-dark opacity-25" width="233" height="209">
 			<path d="m42.126 51.038c-6.1 0-10.4-3.9-10.8-9.7-0.3-3.4 0.7-6.5 2.6-9.3 2-2.8 6.4-4.9 9.9-2.8 0.3 0.2 0.7 0.3 1.1 0.4 4.6 0.5 8.7 5.6 8.6 10.9-0.1 5.1-4.3 9.5-9.7 10.3-0.6 0.1-1.3 0.2-1.7 0.2z"/>
 			<path d="m90.426 20.638c-6.9 0-11.4-5.6-9.8-12.4 0.5-2.3 1.6-4.4 3.3-6 1.9-1.8 4.1-2.7 6.8-2 1.2 0.3 2.4 0.3 3.5 0.6 4 0.8 6.8003 3.2 7.8003 7.2 1.1 4-0.4 7.2-3.4003 9.8-2.3 2-5.1 2.8-8.2 2.8z"/>
@@ -262,10 +207,10 @@ Main banner START -->
 			<path d="m137.03 101.04c0 3-1.7 5.5-4.3 6.2s-5.4-0.5-6.8-3.1c-0.9-1.6-1.3-3.4-0.9-5.3004 0.5-2.4 1.9-4 4.3-4.6 2.3-0.6 4.2 0.2 5.8 1.9 1.3 1.3 1.8 3.1 1.9 4.9004z"/>
 			<path d="m121.53 89.338c-3.3 0-6.3-3.1-6.3-6.5 0-3 2.3-5.3 5.3-5.2 3.9 0 6.9 2.6 6.9 5.8 0 3.1-2.7 5.9-5.9 5.9z"/>
 		</svg>
-	</figure>
+	</figure> -->
 	<!-- Svg END -->
 
-	<div class="container pt-4 mt-4">
+	<div class="container pt-4 mt-4" style="padding: 0px 60px 0px 5px;margin-bottom: -30px;">
 		<div class="row align-items-center mb-2 mySwiper">
 			<div class="swiper-wrapper">
         <div class="swiper-slide">
@@ -278,22 +223,22 @@ Main banner START -->
             <!-- Button -->
             <div class="my-4">
               <a class="btn btn-warning mb-0">Get demo</a>
-              <a class="btn btn-white btn-white-shadow btn-round btn-lg ms-3 mb-0" data-glightbox="" data-gallery="hero"  href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i></a>
+              <!-- <a class="btn btn-white btn-white-shadow btn-round btn-lg ms-3 mb-0" data-glightbox="" data-gallery="hero"  href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i></a> -->
             </div>
 
             <!-- Social -->
-            <div class="d-flex me-auto align-items-center mb-4 mb-md-0">
-              <!-- Social link -->
+            <!-- <div class="d-flex me-auto align-items-center mb-4 mb-md-0">
+              Social link
               <div class="hstack gap-3 text-white">
                 <h6 class="text-white mb-0 me-3">Follow on:</h6>
                 <div> <a href="#" class="text-white">FB</a> </div>
                 <div> <a href="#" class="text-white">IN</a> </div>
                 <div> <a href="#" class="text-white">TW</a> </div>
               </div>					
-            </div>
+            </div> -->
           </div>
 
-          <div class="col-lg-7">
+          <div class="col-lg-7 d-mob">
             <div class="row g-4">
               <div class="col-lg-4 mt-auto position-relative">
                 
@@ -385,22 +330,22 @@ Main banner START -->
             <!-- Button -->
             <div class="my-4">
               <a class="btn btn-warning mb-0">Get demo</a>
-              <a class="btn btn-white btn-white-shadow btn-round btn-lg ms-3 mb-0" data-glightbox="" data-gallery="hero"  href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i></a>
+              <!-- <a class="btn btn-white btn-white-shadow btn-round btn-lg ms-3 mb-0" data-glightbox="" data-gallery="hero"  href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i></a> -->
             </div>
 
             <!-- Social -->
-            <div class="d-flex me-auto align-items-center mb-4 mb-md-0">
-              <!-- Social link -->
+            <!-- <div class="d-flex me-auto align-items-center mb-4 mb-md-0">
+              Social link
               <div class="hstack gap-3 text-white">
                 <h6 class="text-white mb-0 me-3">Follow on:</h6>
                 <div> <a href="#" class="text-white">FB</a> </div>
                 <div> <a href="#" class="text-white">IN</a> </div>
                 <div> <a href="#" class="text-white">TW</a> </div>
               </div>					
-            </div>
+            </div> -->
           </div>
 
-          <div class="col-lg-7">
+          <div class="col-lg-7 d-mob">
             <div class="row g-4">
               <div class="col-lg-4 mt-auto position-relative">
                 
@@ -479,9 +424,9 @@ Main banner START -->
           </div>
         </div>
       </div>
-      <div class="swiper-button-next"></div>
+      <!-- <div class="swiper-button-next"></div>
       <div class="swiper-button-prev"></div>
-      <div class="swiper-pagination"></div>
+      <div class="swiper-pagination"></div> -->
 		</div><!-- RoW END -->
 	</div>
 
@@ -1372,30 +1317,9 @@ Pricing plan END -->
 
 <!-- =======================
 Client START -->
-<section class="py-4">
-	<div class="container">
-
-		<div class="row align-items-center">      
-			<div class="col-12">
-				<!-- Slider START -->
-				<div class="tiny-slider">
-					<div class="tiny-slider-inner" data-arrow="false" data-autoplay="true" data-edge="2" data-dots="false"
-						data-gutter="80" data-items-xl="6" data-items-lg="5" data-items-md="4" data-items-sm="3" data-items-xs="2">
-						<div class="item"> <img src="assets/images/client/google.svg" class="grayscale p-3" alt=""> </div>
-						<div class="item"> <img src="assets/images/client/microsoft.svg" class="grayscale p-3" alt=""> </div>
-						<div class="item"> <img src="assets/images/client/envato.svg" class="grayscale p-3" alt=""> </div>
-						<div class="item"> <img src="assets/images/client/linkedin.svg" class="grayscale p-3" alt=""> </div>
-						<div class="item"> <img src="assets/images/client/paypal.svg" class="grayscale p-3" alt=""> </div>
-						<div class="item"> <img src="assets/images/client/pinterest.svg" class="grayscale p-3" alt=""> </div>
-						<div class="item"> <img src="assets/images/client/uber.svg" class="grayscale p-3" alt=""> </div>
-					</div>
-					<!-- Slider END -->
-				</div>
-			</div><!-- Row END -->
-		</div>
-
-	</div>
-</section>
+<?php
+  include('clients.html');
+?>
 <!-- =======================
 Client END -->
 
@@ -1404,101 +1328,9 @@ Client END -->
 
 <!-- =======================
 Footer START  -->
-<footer class="bg-dark pt-5">
-	<div class="container">
-		
-		<div class="row g-4">
-			<!-- Widget 1 START -->
-			<div class="col-12 col-lg-3">
-				<!-- Logo -->
-				<img src="assets/images/logo.svg" class="footer-brand-item mb-3" alt="logo">
-				<!-- Info -->
-				<p class="text-primary-hover"><a href="#" class="text-white"><i class="bi bi-geo-alt me-2"></i>153 Williamson plaza, maggie-berg</a>
-				</p>				
-				<p class="text-primary-hover mb-0"><a href="#" class="text-white"><i class="bi bi-telephone-plus me-2"></i>+1(062) 109-9222</a></p>
-			</div>
-			<!-- Widget 1 END -->
-
-			<!-- Widget 2 START -->
-			<div class="col-6 col-md-3 col-lg-2">
-				<h6 class="mb-4 text-white">Company</h6>				
-				<ul class="nav flex-column text-primary-hover">
-					<li class="nav-item"><a class="nav-link pt-0" href="#">About</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Careers</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Customers</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Hire us</a></li>          
-				</ul>
-			</div>
-			<!-- Widget 2 END -->
-
-			<!-- Widget 3 START -->
-			<div class="col-6 col-md-3 col-lg-2">
-				<h6 class="mb-4 text-white">Features</h6>				
-				<ul class="nav flex-column text-primary-hover">         
-					<li class="nav-item"><a class="nav-link pt-0" href="#">Press</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Release notes</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Pricing</a></li>          
-				</ul>
-			</div>
-			<!-- Widget 3 END -->
-
-			<!-- Widget 4 START -->
-			<div class="col-6 col-md-3 col-lg-2">
-				<h6 class="mb-4 text-white">Documentation</h6>				
-				<ul class="nav flex-column text-primary-hover">         
-					<li class="nav-item"><a class="nav-link pt-0" href="#">Support</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Docs</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">API reference</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Status</a></li>   
-					<li class="nav-item"><a class="nav-link" href="#">Tech requirement</a></li>
-				</ul>
-			</div>
-			<!-- Widget 4 END -->
-
-			<div class="col-6 col-md-3 col-lg-3">
-				<h6 class="mb-4 text-white">Follow us</h6>
-				<!-- Social media -->
-				<ul class="list-inline mb-0">
-					<li class="list-inline-item">
-						<a href="#" class="btn btn-white btn-round mb-2"><i class="fab fa-fw fa-twitter"></i></a>
-					</li>
-					<li class="list-inline-item">
-						<a href="#" class="btn btn-white btn-round mb-2"><i class="fab fa-instagram"></i></a>
-					</li>
-					<li class="list-inline-item">
-						<a href="#" class="btn btn-white btn-round mb-2"><i class="fab fa-facebook-f"></i></a>
-					</li>
-					<li class="list-inline-item">
-						<a href="#" class="btn btn-white btn-round mb-2"><i class="fab fa-fw fa-linkedin-in"></i></a>
-					</li>						
-				</ul>										
-			</div>
-		</div><!-- Row END -->
-
-		<!-- Divider -->
-		<hr class="mt-4 mb-0">
-
-		<!-- Bottom footer -->    
-		<div class="row justify-content-md-between align-items-center py-4">
-
-			<!-- Copy rights -->
-			<div class="col-md-6">
-				<div class="text-center text-md-start text-primary-hover text-white ">©2022 <a href="https://www.webestica.com/" class="text-reset btn-link" target="_blank">Webestica</a>. All rights reserved
-				</div>
-			</div>
-			
-			<!-- Copy links -->
-			<div class="col-md-6">
-				<ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
-					<li class="nav-item"><a class="nav-link text-white text-primary-hover p-0" href="#">Terms</a></li>
-					<li class="nav-item"><a class="nav-link text-white text-primary-hover p-0 ms-3" href="#">Privacy</a></li>
-					<li class="nav-item"><a class="nav-link text-white text-primary-hover p-0 ms-3" href="#">Cookies</a></li>
-				</ul>          
-			</div>
-		</div>   
-
-	</div>
-</footer>
+<?php
+  include('footer.html');
+?>
 <!-- =======================
 Footer END  -->
 

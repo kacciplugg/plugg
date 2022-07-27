@@ -2402,6 +2402,21 @@ progress {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
+  .blog-btn {
+    width: 100px!important;
+    font-size:12px!important;
+    padding:5px!important;
+  }
+  .blog-btn-div {
+    margin-left: 10px!important;
+  }
+  .d-mob {
+    display: none;
+  }
+  .navbar-brand .navbar-brand-item {
+    height: 30px!important;
+    margin-right: -20px!important;
+  }
 }
 @media (max-width: 1199.98px) {
   .table-responsive-xl {
