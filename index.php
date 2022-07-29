@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Plugg Resources | Creative, rhythmic technology</title>
+	<title>Home - Plugg Resources | Creative, rhythmic technology</title>
 	
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
@@ -146,10 +146,13 @@ Header START -->
 					<!-- Nav item 2 About -->
 					<li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 
-					<!-- Nav item 3 Pricing -->
+					<!-- Nav item 3 Portfolio -->
+					<li class="nav-item"><a class="nav-link" href="case-study.php">Portfolio</a></li>
+
+					<!-- Nav item 4 Pricing -->
 					<li class="nav-item"><a class="nav-link" href="pricing.php">Pricing</a></li>
 
-          <!-- Nav item 4 Contact-->
+          <!-- Nav item 5 Contact-->
 					<li class="nav-item"><a class="nav-link" href="contact-us.php">Contact</a></li>
 				</ul>
 			</div>
@@ -1317,9 +1320,11 @@ Pricing plan END -->
 
 <!-- =======================
 Client START -->
-<?php
-  include('clients.html');
-?>
+<section class="py-3">
+  <?php
+    include('clients.html');
+  ?>
+</section>
 <!-- =======================
 Client END -->
 

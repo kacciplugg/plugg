@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>About - Plugg Resources | Creative, rhythmic technology</title>
+
 <?php
   include('header.html');
 ?>
