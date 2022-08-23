@@ -219,9 +219,9 @@ Main banner START -->
         <div class="swiper-slide">
           <div class="col-lg-5 z-index-9">
             <!-- Title -->
-            <h1 class="text-white">Accelerate your <span class="text-warning">analysis</span> with feature</h1>
+            <h1 class="text-white">We bring your <span class="text-warning">digital ideas</span> to life!</h1>
             <!--Content -->
-            <p class="text-white mb-0">Started several mistake joy say painful removed reached end. State burst think end are its. Arrived off she elderly beloved him affixed noisier yet.</p>
+            <p class="text-white mb-0">We perfectly understand what modern businesses, products and brands need to succeed in the current world; an outstandingly developed visual identity and we're ready to help you build it!</p>
 
             <!-- Button -->
             <div class="my-4">
