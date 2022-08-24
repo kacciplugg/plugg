@@ -453,9 +453,9 @@ Service section START -->
 		<div class="row">
 			<div class="col-lg-5 mb-3">
 				<!-- Title -->
-				<h2 class="mb-3">Our service</h2>
+				<h2 class="mb-3">Our Services</h2>
 				<!-- Content -->
-				<p class="mb-0">And sir dare view but over man So at within Mr to simple assure Mr disposing of continued it</p>
+				<p class="mb-0">From web applications, corporate websites all the way to visual branding and graphic design services, here's a snippet of our professional digital services, just for you!</p>
 			</div>
 		</div><!-- Row END -->
 
@@ -469,9 +469,9 @@ Service section START -->
 						<i class="bi bi-exclamation-diamond fa-fw"></i>
 					</div>
 					<!-- Title -->
-					<h6 class="mb-3">Awesome Support</h6>
+					<h6 class="mb-3">Website Development</h6>
 					<!-- Content -->
-					<p class="card-text">Impression assistance contrasted Manes she wishing</p>
+					<p class="card-text">Our skilled developers are constantly eager to deliver aesthetic, functional and responsive websites, whatever the kind, for your brand, business, school or company.</p>
 					<!-- Button link -->
 					<a href="#" class="card-link text-primary fw-bold">Learn more</a>
 				</div> 
@@ -486,9 +486,9 @@ Service section START -->
 						<i class="bi bi-graph-up fa-fw"></i>
 					</div>					
 					<!-- Title -->
-					<h6 class="mb-3">Dynamic growth</h6>
+					<h6 class="mb-3">Custom Software Development</h6>
 					<!-- Content -->
-					<p class="card-text">For who thoroughly boy estimate conviction.</p>
+					<p class="card-text">Need an online platform for specialized tasks and services? Not to worry! Get personalized, standard web applications built for your company or service.</p>
 					<!-- Button link -->
 					<a href="#" class="card-link text-primary fw-bold">Learn more</a>            
 				</div>				
@@ -503,9 +503,9 @@ Service section START -->
 							<i class="bi bi-pencil-square fa-fw"></i>
 						</div>
 						<!-- Title -->
-						<h6 class="mb-3">Awesome Support</h6>
+						<h6 class="mb-3">Graphic Design</h6>
 						<!-- Content -->
-						<p class="card-text">The bore of true of no be deal Frequently sufficient</p>
+						<p class="card-text">The success of every product, brand or company is largely determined by its visual branding. We offer eye-catching brand logos and designs of any sort for the growth of your business!</p>
 						<!-- Button link -->
 						<a href="#" class="card-link text-primary fw-bold">Learn more</a>            
 					</div>
@@ -520,9 +520,9 @@ Service section START -->
 						<i class="bi bi-chat fa-fw"></i>
 					</div>
 					<!-- Title -->
-					<h6 class="mb-3">Goal businesses</h6>
+					<h6 class="mb-3">UI/UX Design</h6>
 					<!-- Content -->
-					<p class="card-text">Perceived end knowledge certainly day sweetness why</p>
+					<p class="card-text">Modern interfaces require the right amount of research mixed with design to be deployed rightly to the satisfaction of clients and end-users. We are here to help you achieve this!</p>
 					<!-- Button link -->
 					<a href="#" class="card-link text-primary fw-bold">Learn more</a>
 				</div> 
