@@ -9448,6 +9448,46 @@ textarea.form-control-lg {
   border-radius: 0.25rem !important;
 }
 
+.px-thingy {
+ height: 157px !important;
+ width: 157px !important;
+ background-image: url("../../assets/images/AdobeStock_279424976.jpeg");
+ background-size: cover;
+ background-position: 50% 50%;
+}
+
+.hero-girl-1 {
+  height: 200px !important;
+  width: 200px !important;
+  background-image: url("../../assets/images/AdobeStock_333924926.jpeg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.hero-girl-2 {
+  height: 420px !important;
+  width: 420px !important;
+  background-image: url("../../assets/images/AdobeStock_361302823.jpeg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.hero-girl-3 {
+  height: 200px !important;
+  width: 200px !important;
+  background-image: url("../../assets/images/AdobeStock_317044241.jpeg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.hero-girl-4 {
+  height: 420px !important;
+  width: 420px !important;
+  background-image: url("../../assets/images/woman-with-mobile-phone-lady-with-documents.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
 .rounded-3 {
   border-radius: 0.625rem !important;
 }

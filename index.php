@@ -262,8 +262,10 @@ Main banner START -->
                 <!-- Svg END--> 
 
                 <!-- Image -->
-                <img src="assets/images/bg/02.jpg" class="rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative" alt="hero">
-              </div>
+				<div class="hero-girl-1 rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative">
+                <!-- <img src="assets/images/bg/02.jpg" class="rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative" alt="hero"> -->
+				</div>
+			</div>
           
               <div class="col-lg-8 position-relative">
                 
@@ -287,7 +289,9 @@ Main banner START -->
                   <!-- Svg END-->
 
                   <!-- Image -->
-                  <img src="assets/images/bg/01.jpg" class="rounded-top-right-10" alt="hero">
+				  <div class="hero-girl-2 rounded-top-right-10">
+                  <!-- <img src="assets/images/bg/01.jpg" class="rounded-top-right-10" alt="hero"> -->
+				</div>
                 </div>
           
                 <!-- Message Box -->
@@ -326,7 +330,7 @@ Main banner START -->
         <div class="swiper-slide">
           <div class="col-lg-5 z-index-9">
             <!-- Title -->
-            <h1 class="text-white">Redirect your <span class="text-warning">analysis</span> with feature</h1>
+            <h1 class="text-white">Accelerate your <span class="text-warning">business growth</span> with the right tools!</h1>
             <!--Content -->
             <p class="text-white mb-0">Started several mistake joy say painful removed reached end. State burst think end are its. Arrived off she elderly beloved him affixed noisier yet.</p>
 
@@ -369,8 +373,10 @@ Main banner START -->
                 <!-- Svg END--> 
 
                 <!-- Image -->
-                <img src="assets/images/bg/02.jpg" class="rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative" alt="hero">
-              </div>
+				<div class="hero-girl-3 rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative">
+                <!-- <img src="assets/images/bg/02.jpg" class="rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative" alt="hero"> -->
+				</div>
+			</div>
           
               <div class="col-lg-8 position-relative">
                 
@@ -394,7 +400,9 @@ Main banner START -->
                   <!-- Svg END-->
 
                   <!-- Image -->
-                  <img src="assets/images/bg/01.jpg" class="rounded-top-right-10" alt="hero">
+				  <div class="hero-girl-4 rounded-top-right-10">
+                  <!-- <img src="assets/images/bg/01.jpg" class="rounded-top-right-10" alt="hero"> -->
+					</div>
                 </div>
           
                 <!-- Message Box -->
@@ -605,7 +613,7 @@ About section  END -->
 								<!-- Title -->
 								<h6>Creative insight</h6>
 								<!-- Content -->
-								<p class="mt-2 mb-0 text-dark">Including a smile in the creative-led to 103% lift in second view-thought</p>
+								<p class="mt-2 mb-0 text-dark">With creativity at the core of our vision, every project feels brand new.</p>
 							</div>
 						</div>
 
@@ -654,17 +662,19 @@ About section  END -->
 						<!-- Svg END -->
 
 						<!-- Image -->
-						<img src="assets/images/about/02.jpg" class="rounded-3" alt="about">
+						<div class="px-thingy rounded-3">
+							<!-- <img src="" class="rounded-3" alt="about"> -->
+						</div>
 					</div>  
 				</div><!-- Row END -->				
 			</div>
 			
 			<div class="col-lg-6">
 				<!-- Title -->
-				<h2 class="mb-3">Start your business with formax</h2>
+				<h2 class="mb-3">Let's get creative!</h2>
 				<!-- Content -->
-				<p class="mb-0">Two before narrow not relied upon except moment myself Dejection</p>
-				<p>assurance Mrs led certainly</p>
+				<p class="mb-0">We are perfectly positioned to give your business an outstanding visual and online outlook!</p>
+				<p>Our expert developers and designers, with thorough procedures are here to handle just that.</p>
 				<!-- Counter START -->
 				<div class="row g-4">
 					<!-- First counter column -->
@@ -717,9 +727,9 @@ Testimonial section  START -->
 		<div class="row">
 			<div class="col-lg-5 text-center mx-auto">
 				<!-- Title -->
-				<h2 class="mb-3">What our client says</h2>
+				<h2 class="mb-3">What our clients say</h2>
 				<!-- Content -->
-				<p>Impression assistance contrasted Manners she wishing justice hastily new anxious</p>
+				<p>Get to know what businesses and individuals think of us</p>
 			</div>
 		</div><!-- Row END -->    
 
@@ -926,7 +936,7 @@ Action box START -->
 							<div class="row align-items-center py-4">
 								<div class="col-lg-4 position-relative">
 									<!-- Title -->
-									<h2 class="text-white z-index-9 mb-0">Let’s build something <span class="text-warning">great!</span></h2>
+									<h2 class="text-white z-index-9 mb-0">What we are known for!</h2>
 									
 									<!--Svg START  -->
 									<figure class="position-absolute top-50 end-0 mt-n5 mb-0 me-n9 rotate-330 d-xxl-block d-none">
