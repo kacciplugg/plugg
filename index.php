@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Home - Plugg Resources | Creative, rhythmic technology</title>
+	<title>Home - Plugg Resources | Creative, rhythmic technology.</title>
 	
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
@@ -31,6 +31,9 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" >
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
 	
 	<!-- Plugins CSS -->
 	<link rel="stylesheet" type="text/css" href="assets/vendor/font-awesome/css/all.min.css">
@@ -221,11 +224,11 @@ Main banner START -->
             <!-- Title -->
             <h1 class="text-white">We bring your <span class="text-warning">digital ideas</span> to life!</h1>
             <!--Content -->
-            <p class="text-white mb-0">We perfectly understand what modern businesses, products and brands need to succeed in the current world; an outstandingly developed visual identity and we're ready to help you build it!</p>
+            <p class="text-white mb-0">We perfectly understand what modern businesses, products and brands <br>need to succeed in the current world; an outstandingly developed visual identity and we're ready to help you build it!</p>
 
             <!-- Button -->
             <div class="my-4">
-              <a class="btn btn-warning mb-0">Get demo</a>
+              <a class="btn btn-warning mb-0">Learn More</a>
               <!-- <a class="btn btn-white btn-white-shadow btn-round btn-lg ms-3 mb-0" data-glightbox="" data-gallery="hero"  href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i></a> -->
             </div>
 
@@ -311,12 +314,12 @@ Main banner START -->
                 <div class="hstack flex-wrap gap-3 mt-3 justify-content-lg-end">
                   <div class="bg-white bg-opacity-25 rounded-pill text-white py-2 px-3">
                     <!-- Icon -->
-                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Do it your-self approach
+                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Modern technologies
                   </div>
 
                   <div class="bg-white bg-opacity-25 rounded-pill text-white py-2 px-3 ms-lg-0">
                     <!-- Icon -->
-                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Our team do anything
+                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Trained personnel
                   </div>
                 </div>
               </div>
@@ -330,13 +333,13 @@ Main banner START -->
         <div class="swiper-slide">
           <div class="col-lg-5 z-index-9">
             <!-- Title -->
-            <h1 class="text-white">Accelerate your <span class="text-warning">business growth</span> with the right tools!</h1>
+            <h1 class="text-white">Accelerate your <span class="text-warning">business growth</span> today!</h1>
             <!--Content -->
-            <p class="text-white mb-0">Started several mistake joy say painful removed reached end. State burst think end are its. Arrived off she elderly beloved him affixed noisier yet.</p>
+            <p class="text-white mb-0">With the right digital tools, the window of of possibilities are open for brands, products and companies to explore. Take advantage of our professional designers and developers now to help put your product out there!</p>
 
             <!-- Button -->
             <div class="my-4">
-              <a class="btn btn-warning mb-0">Get demo</a>
+              <a class="btn btn-warning mb-0">Learn More</a>
               <!-- <a class="btn btn-white btn-white-shadow btn-round btn-lg ms-3 mb-0" data-glightbox="" data-gallery="hero"  href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i></a> -->
             </div>
 
@@ -422,12 +425,12 @@ Main banner START -->
                 <div class="hstack flex-wrap gap-3 mt-3 justify-content-lg-end">
                   <div class="bg-white bg-opacity-25 rounded-pill text-white py-2 px-3">
                     <!-- Icon -->
-                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Do it your-self approach
+                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Cutting-edge approach
                   </div>
 
                   <div class="bg-white bg-opacity-25 rounded-pill text-white py-2 px-3 ms-lg-0">
                     <!-- Icon -->
-                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Our team do anything
+                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Verified solutions
                   </div>
                 </div>
               </div>
@@ -629,7 +632,9 @@ About section  END -->
 							</figure>
 							<!-- Svg  END-->
 							<!-- Image -->
-							<img src="assets/images/about/01.jpg" class="rounded-top-left-10" alt="about">
+							<div class="px-thingy-0 rounded-top-left-10">
+							<!-- <img src="assets/images/about/01.jpg" class="rounded-top-left-10" alt="about"> -->
+							</div>
 						</div>
 
 						<!-- Avatars -->
