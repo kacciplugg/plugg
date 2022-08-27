@@ -11,7 +11,7 @@
 Header END -->
 
 <!-- **************** MAIN CONTENT START **************** -->
-<main>
+<main style="z-index: 10;position: relative;">
 
 <!-- =======================
 Pricing  START-->
