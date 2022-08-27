@@ -300,13 +300,15 @@ Main banner START -->
                 <!-- Message Box -->
                 <div class="col-7 position-absolute top-0 start-0 ms-n9 d-none d-lg-block">
                   <div class="bg-white rounded-3 position-relative py-3 px-4">
-                    <h6>Keep updated</h6>
-                    <p class="mb-0">Get 20% off for every new subscription</p>
+                    <h6>Because we care</h6>
+                    <p class="mb-0">Speak with us now for <b>FREE</b> and let us know what you want!</p>
                     <!-- Icon -->
-                    <small><i class="bi bi-patch-check-fill text-primary me-2"></i>increase your business sales</small>						
+                    <small><i class="bi bi-patch-check-fill text-primary me-2"></i>We dey for you!</small>						
                     <!-- Icon -->	
                     <div class="icon-md bg-warning bg text-dark rounded-circle position-absolute top-0 start-100 translate-middle">
-                      <i class="fab fa-mailchimp fs-6"></i>
+					<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
+  <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5z"/>
+</svg>
                     </div>                 
                   </div>
                 </div>
@@ -411,13 +413,15 @@ Main banner START -->
                 <!-- Message Box -->
                 <div class="col-7 position-absolute top-0 start-0 ms-n9 d-none d-lg-block">
                   <div class="bg-white rounded-3 position-relative py-3 px-4">
-                    <h6>Keep updated</h6>
-                    <p class="mb-0">Get 20% off for every new subscription</p>
+                    <h6>Because we care</h6>
+                    <p class="mb-0">Speak with us now for <b>FREE</b> and let us know what you want!</p>
                     <!-- Icon -->
-                    <small><i class="bi bi-patch-check-fill text-primary me-2"></i>increase your business sales</small>						
+                    <small><i class="bi bi-patch-check-fill text-primary me-2"></i>We dey for you!</small>						
                     <!-- Icon -->	
                     <div class="icon-md bg-warning bg text-dark rounded-circle position-absolute top-0 start-100 translate-middle">
-                      <i class="fab fa-mailchimp fs-6"></i>
+					<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
+  <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5z"/>
+</svg>
                     </div>                 
                   </div>
                 </div>
@@ -753,13 +757,13 @@ Testimonial section  START -->
 									<div class="d-flex align-items-center">
 										<div class="avatar avatar-lg flex-shrink-0">
 											<!-- Avatar -->
-											<img class="avatar-img rounded-circle" src="assets/images/avatar/01.jpg" alt="avatar">
+											<img class="avatar-img rounded-circle" src="assets/images/avatar/Eloka.jpeg" alt="avatar">
 										</div>
 										<div class="ms-3 flex-shrink-1">
 											<!-- Card title -->
-											<h6 class="mb-1">Frances Guerrero</h6>
+											<h6 class="mb-1">Eloka Anthony</h6>
 											<!-- Card sub-title -->
-											<span class="mb-2 fw-bold small">Australia</span>								
+											<span class="mb-2 fw-bold small">Awka, Nigeria</span>								
 										</div>		
 									</div>
 								</div>
@@ -772,10 +776,10 @@ Testimonial section  START -->
 										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>
 										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>
 										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>
-										<li class="list-inline-item me-0"><i class="bi bi-star-half text-warning"></i></li>									
+										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>									
 									</ul>
 									<!-- Content -->
-									<p class="card-text">He moonlights difficult engrossed it, sportsmen. Interested has all Devonshire difficulty gay assistance joy. Unaffected at ye of compliment alteration to. Place</p>
+									<p class="card-text">You guys are really good at this, the whole site is fast and responsive. I really appreciate.</p>
 								</div>
 								<!-- Card body END -->
 							</div>
@@ -790,13 +794,13 @@ Testimonial section  START -->
 									<div class="d-flex align-items-center">
 										<div class="avatar avatar-lg flex-shrink-0">
 											<!-- Avatar -->
-											<img class="avatar-img rounded-circle" src="assets/images/avatar/02.jpg" alt="avatar">
+											<img class="avatar-img rounded-circle" src="assets/images/avatar/403022_business man_male_user_avatar_profile_icon (1).png" alt="avatar">
 										</div>
 										<div class="ms-3 flex-shrink-1">
 											<!-- Card title -->
-											<h6 class="mb-1">Louis Ferguson</h6>
+											<h6 class="mb-1">Melvin | CEO, Bube.app</h6>
 											<!-- Card sub-title -->
-											<span class="mb-2 fw-bold small">America</span>								
+											<span class="mb-2 fw-bold small">Enugu, Nigeria</span>								
 										</div>		
 									</div>
 								</div>
@@ -812,7 +816,7 @@ Testimonial section  START -->
 										<li class="list-inline-item me-0"><i class="bi bi-star-half text-warning"></i></li>									
 									</ul>
 									<!-- Content -->
-									<p class="card-text">For who thoroughly her boy estimating conviction. Removed demands expense account in outward tedious do. Particular way thoroughly unaffected projection favorable</p>
+									<p class="card-text">I am highly impressed with the scintillating and astonishing service of this company, the logos were elegantly designed and curated, the flyers have been amazing.</p>
 								</div>
 								<!-- Card body END -->
 							</div>
@@ -827,13 +831,13 @@ Testimonial section  START -->
 									<div class="d-flex align-items-center">
 										<div class="avatar avatar-lg flex-shrink-0">
 											<!-- Avatar -->
-											<img class="avatar-img rounded-circle" src="assets/images/avatar/03.jpg" alt="avatar">
+											<img class="avatar-img rounded-circle" src="assets/images/avatar/AdobeStock_443352225.jpeg" alt="avatar">
 										</div>
 										<div class="ms-3 flex-shrink-1">
 											<!-- Card title -->
-											<h6 class="mb-1">Carolyn Ortiz</h6>
+											<h6 class="mb-1">Ada Christabel</h6>
 											<!-- Card sub-title -->
-											<span class="mb-2 fw-bold small">London</span>								
+											<span class="mb-2 fw-bold small">Asaba, Nigeria</span>								
 										</div>		
 									</div>
 								</div>
@@ -846,10 +850,10 @@ Testimonial section  START -->
 										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>
 										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>
 										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>
-										<li class="list-inline-item me-0"><i class="bi bi-star-half text-warning"></i></li>									
+										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>									
 									</ul>
 									<!-- Content -->
-									<p class="card-text">Rooms oh fully taken by worse do. Points afraid but may end law lasted. Was out laughter raptures returned outweigh. Luckily cheered colonel I do we attack highest</p>
+									<p class="card-text">Plugg Resources are the best in the design world. I so much love the flyers and Christmas card you guys designed for me. More grace.</p>
 								</div>
 								<!-- Card body END -->
 							</div>
@@ -864,13 +868,13 @@ Testimonial section  START -->
 									<div class="d-flex align-items-center">
 										<div class="avatar avatar-lg flex-shrink-0">
 											<!-- Avatar -->
-											<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="avatar">
+											<img class="avatar-img rounded-circle" src="assets/images/avatar/paschal.jpg" alt="avatar">
 										</div>
 										<div class="ms-3 flex-shrink-1">
 											<!-- Card title -->
-											<h6 class="mb-1">Samuel Bishop</h6>
+											<h6 class="mb-1">Ezioha Paschal</h6>
 											<!-- Card sub-title -->
-											<span class="mb-2 fw-bold small">India</span>								
+											<span class="mb-2 fw-bold small">Onitsha, Nigeria</span>								
 										</div>		
 									</div>
 								</div>
@@ -883,10 +887,10 @@ Testimonial section  START -->
 										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>
 										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>
 										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>
-										<li class="list-inline-item me-0"><i class="bi bi-star-half text-warning"></i></li>									
+										<li class="list-inline-item me-0"><i class="bi bi-star-fill text-warning"></i></li>									
 									</ul>
 									<!-- Content -->
-									<p class="card-text">Perceived end knowledge certainly day sweetness why cordially. Ask a quick six seven offer see among. Handsome met debating sir dwelling age material. As style</p>
+									<p class="card-text">Amazing web design service. The best I have seen so far.</p>
 								</div>
 								<!-- Card body END -->
 							</div>
@@ -957,9 +961,9 @@ Action box START -->
 								</div>
 								<div class="col-lg-8">
 									<!-- Content -->
-									<p class="text-white">Two before narrow not relied upon except moment myself Dejection assurance Mrs led certainly So gate at no only none open Betrayed at properly it of graceful</p>
+									<p class="text-white">At Plugg Resources, we let our creativity speak for us. With professionally qualified designers and developers to attend to your requests, be sure to expect the best visual appeal has to offer.</p>
 									<!-- Button -->
-									<a class="btn btn-primary mb-0" href="#">Get a quote</a>
+									<a class="btn btn-primary mb-0" href="#">Get Started</a>
 								</div>
 							</div><!-- Row END -->
 						</div>
@@ -990,9 +994,9 @@ Step START -->
 						<h2 class="text-primary opacity-3 mb-0">01</h2>
 						<div class="ms-3">
 							<!-- Title -->
-							<h5>Easy & fast solution</h5>
+							<h5>Warm & quick responses</h5>
 							<!-- Content -->
-							<p class="mb-0">Denote simple fat denied add worthy little use As some he so high down am week Conduct esteems by</p>
+							<p class="mb-0">Our friendly designers and developers are available to attend to your requests and enquiries on all work days!</p>
 						</div>
 					</div>
 					</a>
@@ -1005,9 +1009,9 @@ Step START -->
 								<h2 class="mb-2 text-primary opacity-3 mb-0">02</h2>              
 							<div class="ms-3 align-items-start">
 								<!-- Title -->
-								<h5>Powerful features</h5>
+								<h5>Professionally skilled personnel</h5>
 								<!-- Content -->
-								<p class="mb-0">Parlors waiting so against me no. Wishing calling is warrant settled was lucky. Express besides it present</p>
+								<p class="mb-0">With expert web designers, software developers and graphic designers, be sure to sit back and be guaranteed pure excellence.</p>
 							</div>
 						</div>
 					</a>
@@ -1020,9 +1024,9 @@ Step START -->
 							<h2 class="mb-2 text-primary opacity-3">03</h2>
 							<div class="ms-3 align-items-start mb-0">
 								<!-- Title -->
-								<h5>Advance</h5>
+								<h5>Safe & secure interactions</h5>
 								<!-- Content -->
-								<p class="mb-0">For who thoroughly her boy estimating conviction. Removed demands expense account in outward</p>
+								<p class="mb-0">As a registered company under the FGN, your conversations and transactions are safe with us! Also, all payments for services will be issued receipts accordingly.</p>
 							</div>
 						</div>
 					</a>
@@ -1078,17 +1082,17 @@ Step START -->
 				<div class="tab-content p-0 mb-0" id="v-pills-tabContent">
 					<div class="tab-pane fade show active" id="step1" role="tabpanel" aria-labelledby="step-1">            
 						<!-- Image -->
-						<img src="assets/images/step/01.jpg" class="rounded-3" alt="">          
+						<img src="assets/images/AdobeStock_327182618.jpeg" class="rounded-3" alt="">          
 					</div>
 
 					<div class="tab-pane fade" id="step2" role="tabpanel" aria-labelledby="step-2">
 						<!-- Image -->
-						<img src="assets/images/step/02.jpg" class="rounded-3" alt="">
+						<img src="assets/images/AdobeStock_392742050.jpeg" class="rounded-3" alt="">
 					</div>
 
 					<div class="tab-pane fade" id="step3" role="tabpanel" aria-labelledby="step-3">
 						<!-- Image -->
-						<img src="assets/images/step/03.jpg" class="rounded-3" alt="">
+						<img src="assets/images/AdobeStock_365567569.jpeg" class="rounded-3" alt="">
 					</div>   
 
 				</div>
@@ -1143,9 +1147,9 @@ Pricing plan START -->
 		<div class="row mb-3">
 			<div class="col-lg-6">
 				<!-- Title -->
-				<h2 class="mb-3">Ready to start with us?</h2>
+				<h2 class="mb-3">Ready to work with us?</h2>
 				<!-- Content -->
-				<p>Pleasure and so read the was hope entire first decided the so must have as on was want up of I will rival in came</p>
+				<p>You couldn't have made it all this way if you weren't gonna work with us...right? Feel free to contact us if you still have more enquiries; otherwise, here are the peanuts we charge for our exquisite tech services</p>
 			</div>
 		</div><!-- Row END -->
 
