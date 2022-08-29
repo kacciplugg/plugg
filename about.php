@@ -11,7 +11,7 @@
 Header END -->
 
 <!-- **************** MAIN CONTENT START **************** -->
-<main>
+<main style="z-index: 10;position: relative;">
 <!-- =======================
 Main banner START -->
 <section class="position-relative py-lg-8" style="background-image: url(assets/images/bg/06.jpg); background-repeat: no-repeat; background-size: cover;">

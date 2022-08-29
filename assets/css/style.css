@@ -51,7 +51,7 @@
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-  --bs-body-font-family: Titillium Web, sans-serif;
+  --bs-body-font-family: Inter, sans-serif;
   --bs-body-font-size: 0.875rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
@@ -100,8 +100,7 @@ hr:not([size]) {
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  font-family: 'Titillium Web', sans-serif;
-  /* font-family: "Inter", sans-serif; */
+  font-family: "Inter", sans-serif;
   font-weight: 700;
   line-height: 1.25;
   color: #071c37;
@@ -6412,7 +6411,7 @@ textarea.form-control-lg {
   z-index: 1080;
   display: block;
   margin: 0;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
@@ -6514,7 +6513,7 @@ textarea.form-control-lg {
   z-index: 1070;
   display: block;
   max-width: 276px;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
@@ -9447,54 +9446,6 @@ textarea.form-control-lg {
 
 .rounded-2 {
   border-radius: 0.25rem !important;
-}
-
-.px-thingy {
- height: 157px !important;
- width: 157px !important;
- background-image: url("../../assets/images/AdobeStock_279424976.jpeg");
- background-size: cover;
- background-position: 50% 50%;
-}
-
-.px-thingy-0 {
-  height: 330px !important;
-  width: 330px !important;
-  background-image: url("../../assets/images/AdobeStock_166747171.jpeg");
-  background-size: cover;
-  background-position: 50% 50%;
-}
-
-.hero-girl-1 {
-  height: 200px !important;
-  width: 200px !important;
-  background-image: url("../../assets/images/AdobeStock_333924926.jpeg");
-  background-size: cover;
-  background-position: 50% 50%;
-}
-
-.hero-girl-2 {
-  height: 420px !important;
-  width: 420px !important;
-  background-image: url("../../assets/images/AdobeStock_361302823.jpeg");
-  background-size: cover;
-  background-position: 50% 50%;
-}
-
-.hero-girl-3 {
-  height: 200px !important;
-  width: 200px !important;
-  background-image: url("../../assets/images/AdobeStock_317044241.jpeg");
-  background-size: cover;
-  background-position: 50% 50%;
-}
-
-.hero-girl-4 {
-  height: 420px !important;
-  width: 420px !important;
-  background-image: url("../../assets/images/woman-with-mobile-phone-lady-with-documents.jpg");
-  background-size: cover;
-  background-position: 50% 50%;
 }
 
 .rounded-3 {
