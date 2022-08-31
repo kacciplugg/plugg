@@ -3,6 +3,53 @@
 <head>
 	<title>About - Plugg Resources | Creative, rhythmic technology</title>
 
+	<!-- Meta Tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta name="msapplication-TileImage" content="assets/images/favicon.ico">
+ 
+	<meta property="og:site_name" content="Plugg Resources">
+	<meta property="og:title" content="Plugg Resources">
+	<meta property="og:description" content="An Online Web Development and Graphic Design Collective specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
+
+	<meta property="og:image" itemprop="image" content="assets/images/favicon.ico">
+
+	<meta property="og:type" content="website">
+	<meta property="og:image:type" content="image/png">
+
+	<meta property="og:image:width" content="300">
+	<meta property="og:image:height" content="300">
+
+	<meta property="og:url" content="https://pluggresources.com">
+
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="assets/images/favicon.ico">
+
+	<!-- Google Font -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+	
+	<!-- Plugins CSS -->
+	<link rel="stylesheet" type="text/css" href="assets/vendor/font-awesome/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap-icons/bootstrap-icons.css">
+	<link rel="stylesheet" type="text/css" href="assets/vendor/tiny-slider/tiny-slider.css">
+	<link rel="stylesheet" type="text/css" href="assets/vendor/glightbox/css/glightbox.min.css">
+
+	
+	<!-- Theme CSS -->
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+  <!-- Animate on Scroll (AOS) -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+  <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+
 <?php
   include('header.html');
 ?>
