@@ -925,6 +925,10 @@ progress {
   --bs-gutter-x: 1.5rem;
 }
 
+.desdev{
+  padding-top: 50px;
+}
+
 .g-4,
 .gy-4 {
   --bs-gutter-y: 1.5rem;
@@ -9464,6 +9468,22 @@ textarea.form-control-lg {
   width: 421px;
   background-image: url("../../assets/images/woman-with-mobile-phone-lady-with-documents.jpg");
   background-size: cover;
+}
+
+.hero-guy-5{
+  height: 340px;
+  width: 340px;
+  background-image: url("../../assets/images/AdobeStock_166747171.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-guy-6{
+  height: 165px;
+  width: 165px;
+  background-image: url("../../assets/images/AdobeStock_279424976.jpeg");
+  background-size: cover;
+  background-position: center;
 }
 
 .rounded {
