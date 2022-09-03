@@ -11,7 +11,7 @@
  
 	<meta property="og:site_name" content="Plugg Resources">
 	<meta property="og:title" content="Plugg Resources">
-	<meta property="og:description" content="An Online Web Development and Graphic Design Collective specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
+	<meta property="og:description" content="An online digital design and development agency specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
 
 	<meta property="og:image" itemprop="image" content="assets/images/favicon.ico">
 
@@ -61,7 +61,7 @@ Header END -->
 <main style="z-index: 10;position: relative;">
 <!-- =======================
 Main banner START -->
-<section class="position-relative py-lg-8" style="background-image: url(assets/images/bg/06.jpg); background-repeat: no-repeat; background-size: cover;">
+<section class="position-relative py-lg-8" style="background-image: url(assets/images/AdobeStock_302545912.jpeg); background-repeat: no-repeat; background-size: cover;">
 	<!-- Overlay -->
 	<div class="bg-overlay opacity-7"></div>
 	<div class="container my-md-5 py-5">
@@ -69,9 +69,9 @@ Main banner START -->
 
 			<div class="col-lg-6 mx-auto text-center z-index-9">
 				<!-- Title -->
-				<h1 class="text-white mb-3">Smart business idea for better future</h1>
+				<h1 data-aos="flip-right" class="text-white mb-3">Building businesses, one design process at a time.</h1>
 				<!-- Content -->
-				<p class="text-white fs-6 fw-light mb-0">Demesne far-hearted suppose venture excited see had has. Dependent on so extremely delivered by Yet.</p>
+				<p data-aos="zoom-in" class="text-white fs-6 fw-light mb-0">We relish opportunities in creating unique experiences for our customers, be them businesses, brands or companies. Let us take you through what defines us; what defines <b style="color: #059d6e;">Plugg Resources.</b></p>
 			</div>
 		</div><!-- Row END -->
 
@@ -87,21 +87,21 @@ About START -->
 		<div class="row justify-content-between align-items-center g-4">
 			<div class="col-lg-6">
 				<!-- Title -->
-				<h2 class="mb-3">How did we get here? The history of the business told.</h2>
+				<h2 class="mb-3">Who are we and what exactly do we do?</h2>
 				<!-- Content -->
-				<p class="mb-4">Speedily say has suitable disposal add boy. On forth doubt miles of child. Exercise joy man children rejoiced. Yet uncommonly his ten who diminution astonished. Demesne new manners savings staying had.</p>
+				<p class="mb-4">For starters, we are an online digital design and development agency. We are obsessed with the delivery of high quality tech solutions for businesses and brands ranging from website and application development to corporate branding and general graphic design.</p>
 
 				<!-- Progress START -->
 				<!-- Item 1  START-->
 				<div class="overflow-hidden mb-4">
 					<div class="d-flex justify-content-between mb-1">
 						<!-- Title -->
-						<h6 class="mb-0">Marketing</h6>
+						<h6 class="mb-0">Website and Application Development</h6>
 						<!-- Percent -->
-						<span class="progress-percent h6 mb-0">88%</span>
+						<span class="progress-percent h6 mb-0">90%</span>
 					</div>
 					<div class="progress progress-sm">
-						<div class="progress-bar progress-bar-animated bg-primary bg-opacity-50 aos" data-aos="slide-right" data-aos-delay="200" data-aos-duration="1000" data-aos-easing="ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:88%">
+						<div class="progress-bar progress-bar-animated bg-primary bg-opacity-50 aos" data-aos="slide-right" data-aos-delay="200" data-aos-duration="1000" data-aos-easing="ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:90%">
 						</div>
 					</div>
 				 </div>
@@ -111,12 +111,12 @@ About START -->
 				 <div class="overflow-hidden mb-4">
 					<div class="d-flex justify-content-between mb-1">
 						<!-- Title -->
-						<h6 class="mb-0">Social assignment</h6>
+						<h6 class="mb-0">Visual Branding</h6>
 						<!-- Percent -->
-						<span class="progress-percent h6 mb-0">95%</span>
+						<span class="progress-percent h6 mb-0">99%</span>
 					</div>
 					<div class="progress progress-sm  justify-content-between">
-						<div class="progress-bar progress-bar-animated bg-primary bg-opacity-50 aos" data-aos="slide-right" data-aos-delay="200" data-aos-duration="1000" data-aos-easing="ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
+						<div class="progress-bar progress-bar-animated bg-primary bg-opacity-50 aos" data-aos="slide-right" data-aos-delay="200" data-aos-duration="1000" data-aos-easing="ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:99%">
 						</div>
 					</div>
 				 </div>
@@ -126,7 +126,7 @@ About START -->
 				 <div class="overflow-hidden mb-5">
 					<div class="d-flex justify-content-between mb-1">
 						<!-- Title -->
-						<h6 class="mb-0">Consulting</h6>
+						<h6 class="mb-0">UI/UX Design</h6>
 						<!-- Percent -->
 						<span class="progress-percent h6 mb-0">70%</span>
 					</div>
@@ -139,7 +139,7 @@ About START -->
 				<!-- Progress END -->
 				
 				<!-- Button -->
-				<a class="btn btn-warning mb-0" href="#">About us</a>
+				<a class="btn btn-warning mb-0" href="contact-us.php">Contact Us</a>
 			</div>
 
 			<div class="col-lg-5 position-relative">
@@ -150,14 +150,14 @@ About START -->
 						<span class="fs-5"><i class="fas fa-hands-helping"></i></span>
 					</div>
 					<!-- Title -->
-					<h6>Business plan</h6>
+					<h6>Goal oriented</h6>
 					<!-- Content -->
-					<p class="mb-0">Comfort reached gay perhaps chamber his six</p>
+					<p class="mb-0">We want to help your business achieve its true potentials.</p>
 				</div>
 				<!-- Message box END -->
 
 				<!-- Image -->
-				<img src="assets/images/about/08.jpg" class="rounded-4 rounded-bottom-right-0" alt="">        
+				<img src="assets/images/AdobeStock_132106972.jpeg" class="rounded-4 rounded-bottom-right-0" height="800" width="800" alt="">        
 			</div>
 		</div><!-- Row END -->
 	</div>
@@ -173,7 +173,7 @@ Counter START -->
 			<div class="row g-3">
 				<div class="col-sm-6 col-lg-3 text-center">
 					<div class="d-flex justify-content-center">
-						<h3 class="purecounter" data-purecounter-start="0" data-purecounter-end="10" data-purecounter-delay="100">10</h3>
+						<h3 class="purecounter" data-purecounter-start="0" data-purecounter-end="3" data-purecounter-delay="100">3</h3>
 						<span class="text-dark display-6">+</span>
 					</div>
 					<!-- Title -->
@@ -182,29 +182,29 @@ Counter START -->
 
 				<div class="col-sm-6 col-lg-3 text-center">
 					<div class="d-flex justify-content-center">
-						<h3 class="purecounter" data-purecounter-start="0" data-purecounter-end="180" data-purecounter-delay="100">180</h3>
+						<h3 class="purecounter" data-purecounter-start="0" data-purecounter-end="100" data-purecounter-delay="100">100</h3>
 						<span class="text-dark display-6">+</span>
 					</div>
 					<!-- Title -->
-					<h6 class="mb-0">Satisfied customer</h6>
+					<h6 class="mb-0">Satisfied clients</h6>
 				</div>
 
 				<div class="col-sm-6 col-lg-3 text-center">
 					<div class="d-flex justify-content-center">
-						<h3 class="purecounter" data-purecounter-start="0" data-purecounter-end="90" data-purecounter-delay="100">90</h3>
+						<h3 class="purecounter" data-purecounter-start="0" data-purecounter-end="30" data-purecounter-delay="100">30</h3>
 						<span class="text-dark display-6">+</span>
 					</div>
 					<!-- Title -->
-					<h6 class="mb-0">Project completed</h6>
+					<h6 class="mb-0">Projects completed</h6>
 				</div>          
 
 				<div class="col-sm-6 col-lg-3 text-center">
 					<div class="d-flex justify-content-center">
-						<h3 class="purecounter" data-purecounter-start="0" data-purecounter-end="50" data-purecounter-delay="100">50</h3>
+						<h3 class="purecounter" data-purecounter-start="0" data-purecounter-end="30" data-purecounter-delay="100">30</h3>
 						<span class="text-dark display-6">+</span>
 					</div>
 					<!-- Title -->
-					<h6 class="mb-0">Professional team</h6>
+					<h6 class="mb-0">Referrals & Recommendations</h6>
 				</div> 
 			</div><!-- Row END -->
 		</div>
@@ -221,9 +221,9 @@ Team START -->
 		<div class="row mb-4">
 			<div class="col-lg-7 mx-auto text-center">
 				<!-- Title -->
-				<h2 class="mb-3">Meet our talented members</h2>
+				<h2 class="mb-3">Meet our talented team!</h2>
 				<!-- Content -->
-				<p class="mb-0">Satisfied conveying a dependent contented he gentleman agreeable do be. Warrant private blushes removed an in equally totally if</p>
+				<p class="mb-0">The success and commendations we've received from our clients are as a result of these amazing designers and developers buzzing for a chance to exhibit their ever-flowing creativity!</p>
 			</div>
 		 </div><!-- Row END --> 
 
@@ -232,25 +232,26 @@ Team START -->
 				<!-- Card START -->
 				<div class="card rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden">
 					<!-- Card Image -->            
-					<img src="assets/images/team/01.jpg" alt="card image">
+					<img src="assets/images/team/Alakembi Peter.jpeg" alt="card image">
 					
 					<!-- Card Overlay START -->
 					<div class="card-element-hover p-4">
 						<!-- Popup -->
 						<div class="hstack gap-2 justify-content-end">
-						<a href="#" class="text-primary-hover"><i class="bi bi-facebook me-2"></i></a> 
-						<a href="#" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
-						<a href="#" class="text-primary-hover"><i class="bi bi-twitter"></i></a>
+						<a href="https://facebook.com/peter.alakembi" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-facebook me-2"></i></a> 
+						<a href="https://wa.me/2348162760354" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
+						<a href="https://linkedin.com/in/peter-alakembi" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-linkedin"></i></a>
+						<a href="https://twitter.com/peteralaks" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-twitter"></i></a>
 					</div>
 						
 						<!-- Overlay Content -->
 						<div class="mt-auto">
 							<!-- Sub title  -->
-							<p class="small text-white mb-1">Founder & CEO</p>
+							<p class="small text-white mb-1">Lead | Co-Founder </p>
 							<!-- Title -->
-							<h6 class="text-white">Samuel Bishop</h6>
+							<h6 class="text-white">Peter Alakembi</h6>
 							<!-- Content -->
-							<p class="text-white mb-0">Rooms oh fully taken by worse do Points.</p>
+							<p class="text-white mb-0">Front-end web developer, UI/UX and graphic designer</p>
 						</div>
 					</div>
 					<!-- Card Overlay END -->						
@@ -262,25 +263,26 @@ Team START -->
 				<!-- Card START -->
 				<div class="card rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden">
 					<!-- Card Image -->            
-					<img src="assets/images/team/02.jpg" alt="card image">
+					<img src="assets/images/team/Ngwu Onyedikachi" alt="card image">
 					
 					<!-- Card Overlay START -->
 					<div class="card-element-hover p-4">
 						<!-- Popup -->
 						<div class="hstack gap-2 justify-content-end">
-						<a href="#" class="text-primary-hover"><i class="bi bi-facebook me-2"></i></a> 
-						<a href="#" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
-						<a href="#" class="text-primary-hover"><i class="bi bi-twitter"></i></a>
+						<a href="https://web.facebook.com/onyedikachi.ngwu.3" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-facebook me-2"></i></a> 
+						<a href="https://wa.me/2348132246959" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
+						<a href="https://www.linkedin.com/in/onyedikachi-ngwu-b748b41b0/" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-linkedin"></i></a>
+						<a href="https://twitter.com/KachiNgwu" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-twitter"></i></a>
 					</div>
 						
 						<!-- Overlay Content -->
 						<div class="mt-auto">
 							<!-- Sub title  -->
-							<p class="small text-white mb-1">Developer</p>
+							<p class="small text-white mb-1">Developer | Co-Founder</p>
 							<!-- Title -->
-							<h6 class="text-white">Jacqueline Miller</h6>
+							<h6 class="text-white">Onyedikachi Ngwu</h6>
 							<!-- Content -->
-							<p class="text-white mb-0">Perceived end knowledge certainly day sweetness.</p>
+							<p class="text-white mb-0">Front-end and PHP web developer, UI/UX and graphics designer</p>
 						</div>
 					</div>
 					<!-- Card Overlay END -->						
@@ -292,15 +294,15 @@ Team START -->
 				<!-- Card START -->
 				<div class="card rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden">
 					<!-- Card Image -->            
-					<img src="assets/images/team/03.jpg" alt="card image">
+					<img src="assets/images/team/Ike-Nwako Chukwudi.jpg" alt="card image">
 					
 					<!-- Card Overlay START -->
 					<div class="card-element-hover p-4">
 						<!-- Popup -->
 						<div class="hstack gap-2 justify-content-end">
-						<a href="#" class="text-primary-hover"><i class="bi bi-facebook me-2"></i></a> 
-						<a href="#" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
-						<a href="#" class="text-primary-hover"><i class="bi bi-twitter"></i></a>
+						<a href="https://facebook.com/peter.alakembi" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-facebook me-2"></i></a> 
+						<a href="https://wa.me/2348112915496" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
+						<a href="https://linkedin.com/in/peter-alakembi" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-linkedin"></i></a>
 					</div>
 					
 						<!-- Overlay Content -->

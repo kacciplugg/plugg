@@ -11,7 +11,7 @@
  
 	<meta property="og:site_name" content="Plugg Resources">
 	<meta property="og:title" content="Plugg Resources">
-	<meta property="og:description" content="An Online Web Development and Graphic Design Collective specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
+	<meta property="og:description" content="An online digital design and development agency specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
 
 	<meta property="og:image" itemprop="image" content="assets/images/favicon.ico">
 
@@ -778,7 +778,7 @@ About section  END -->
 					<!-- First counter column -->
 					<div class="col-sm-4 col-md-6 col-xl-4">
 						<div class="d-flex">
-							<h3 class="purecounter text-primary" data-purecounter-start="0" data-purecounter-end="20" data-purecounter-delay="100">20</h3>
+							<h3 class="purecounter text-primary" data-purecounter-start="0" data-purecounter-end="30" data-purecounter-delay="100">30</h3>
 							<span class="text-primary display-6">+</span>
 						</div>
 						<!-- Title -->
@@ -798,17 +798,17 @@ About section  END -->
 					<!-- Third counter column -->
 					<div class="col-sm-4 col-md-6 col-xl-4">
 						<div class="d-flex">
-							<h3 class="purecounter text-primary" data-purecounter-start="0" data-purecounter-end="50" data-purecounter-delay="100">50</h3>
+							<h3 class="purecounter text-primary" data-purecounter-start="0" data-purecounter-end="30" data-purecounter-delay="100">30</h3>
 							<span class="text-primary display-6">+</span>
 						</div>
 						<!-- Title -->
-						<h6 class="mb-0">Recommendations</h6>
+						<h6 class="mb-0">Referrals & Recommendations</h6>
 					</div> 
 				</div>
 				<!-- Counter END -->	
 
 				<!-- Button -->
-				<button class="btn btn-warning mt-4">Learn More</button>
+				<a class="btn btn-warning mt-4" href="case-study.php">Learn More</a>
 			</div>
 
 		</div><!-- Row END -->
