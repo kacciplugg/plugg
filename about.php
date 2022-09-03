@@ -85,7 +85,7 @@ About START -->
 <section>
 	<div class="container">
 		<div class="row justify-content-between align-items-center g-4">
-			<div class="col-lg-6">
+			<div data-aos="zoom-out-down" class="col-lg-6">
 				<!-- Title -->
 				<h2 class="mb-3">Who are we and what exactly do we do?</h2>
 				<!-- Content -->
@@ -142,7 +142,7 @@ About START -->
 				<a class="btn btn-warning mb-0" href="contact-us.php">Contact Us</a>
 			</div>
 
-			<div class="col-lg-5 position-relative">
+			<div data-aos="zoom-out-down" class="col-lg-5 position-relative">
 				<!-- Message box START -->
 				<div class="col-4 bg-white shadow p-3 rounded-3 position-absolute top-100 start-0 translate-middle mt-n5 ms-3 d-none d-lg-block">
 					<!-- Icon -->
@@ -215,24 +215,24 @@ Counter END -->
 
 <!-- =======================
 Team START -->
-<section>
+<section data-aos="zoom-out-down">
 	<div class="container">
 
 		<div class="row mb-4">
 			<div class="col-lg-7 mx-auto text-center">
 				<!-- Title -->
-				<h2 class="mb-3">Meet our talented team!</h2>
+				<h2 data-aos="zoom-in" class="mb-3">Meet our talented team!</h2>
 				<!-- Content -->
-				<p class="mb-0">The success and commendations we've received from our clients are as a result of these amazing designers and developers buzzing for a chance to exhibit their ever-flowing creativity!</p>
+				<p data-aos="zoom-in" class="mb-0">The success and commendations we've received from our clients are as a result of these amazing designers and developers buzzing for a chance to exhibit their ever-flowing creativity!</p>
 			</div>
 		 </div><!-- Row END --> 
 
 		<div class="row g-4">
 			<div class="col-sm-6 col-lg-3 ">
 				<!-- Card START -->
-				<div class="card rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden">
+				<div data-aos="fade-up" class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
 					<!-- Card Image -->            
-					<img src="assets/images/team/Alakembi Peter.jpeg" alt="card image">
+					<img class="image-fill" src="assets/images/team/Alakembi Peter.jpeg" alt="card image">
 					
 					<!-- Card Overlay START -->
 					<div class="card-element-hover p-4">
@@ -261,9 +261,9 @@ Team START -->
 
 			<div class="col-sm-6 col-lg-3">
 				<!-- Card START -->
-				<div class="card rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden">
+				<div data-aos="fade-up" class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
 					<!-- Card Image -->            
-					<img src="assets/images/team/Ngwu Onyedikachi" alt="card image">
+					<img class="image-fill" src="assets/images/team/Ngwu Onyedikachi.jpg" alt="card image">
 					
 					<!-- Card Overlay START -->
 					<div class="card-element-hover p-4">
@@ -292,27 +292,28 @@ Team START -->
 
 			<div class="col-sm-6 col-lg-3">
 				<!-- Card START -->
-				<div class="card rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden">
+				<div data-aos="fade-up" class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
 					<!-- Card Image -->            
-					<img src="assets/images/team/Ike-Nwako Chukwudi.jpg" alt="card image">
+					<img class="image-fill" src="assets/images/team/Okaliwe David.jpg" alt="card image">
 					
 					<!-- Card Overlay START -->
 					<div class="card-element-hover p-4">
 						<!-- Popup -->
 						<div class="hstack gap-2 justify-content-end">
-						<a href="https://facebook.com/peter.alakembi" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-facebook me-2"></i></a> 
-						<a href="https://wa.me/2348112915496" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
-						<a href="https://linkedin.com/in/peter-alakembi" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-linkedin"></i></a>
+						<a href="https://facebook.com/david.okaliwe" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-facebook me-2"></i></a> 
+						<a href="https://wa.me/2349014452743" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
+						<a href="https://www.linkedin.com/in/david-okaliwe-229666234" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-linkedin"></i></a>
+						<a href="https://twitter.com/DavidOkaliwe" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-twitter"></i></a>
 					</div>
 					
 						<!-- Overlay Content -->
 						<div class="mt-auto">
 							<!-- Sub title  -->
-							<p class="small text-white mb-1">Project manager</p>
+							<p class="small text-white mb-1">Designer</p>
 							<!-- Title -->
-							<h6 class="text-white">Dennis Barrett</h6>
+							<h6 class="text-white">David Okaliwe</h6>
 							<!-- Content -->
-							<p class="text-white mb-0">Speedily say has suitable disposal add boy On.</p>
+							<p class="text-white mb-0">UI/UX, graphic, motion graphics designer</p>
 						</div>
 					</div>
 					<!-- Card Overlay END -->						
@@ -322,27 +323,27 @@ Team START -->
 
 			<div class="col-sm-6 col-lg-3">
 				<!-- Card START -->
-				<div class="card rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden">
+				<div data-aos="fade-up" class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
 					<!-- Card Image -->            
-					<img src="assets/images/team/04.jpg" alt="card image">
+					<img class="image-fill" src="assets/images/team/Ike-Nwako Chukwudi.jpg" alt="card image">
 					
 					<!-- Card Overlay START -->
 					<div class="card-element-hover p-4">
 						<!-- Popup -->
 						<div class="hstack gap-2 justify-content-end">
-						<a href="#" class="text-primary-hover"><i class="bi bi-facebook me-2"></i></a> 
-						<a href="#" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
-						<a href="#" class="text-primary-hover"><i class="bi bi-twitter"></i></a>
+						<a href="https://www.facebook.com/chukwudi.nnamdi.16" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-facebook me-2"></i></a> 
+						<a href="https://wa.me/2348112915496" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
+						<a href="https://www.linkedin.com/in/ikenwakochukwudi/" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-linkedin"></i></a>
 					</div>
 						
 						<!-- Overlay Content -->
 						<div class="mt-auto">
 							<!-- Sub title  -->
-							<p class="small text-white mb-1">Human resource</p>
+							<p class="small text-white mb-1">Developer</p>
 							<!-- Title -->
-							<h6 class="text-white">Carolyn Ortiz</h6>
+							<h6 class="text-white">Chukwudi Ike-Nwako</h6>
 							<!-- Content -->
-							<p class="text-white mb-0">For who thoroughly her boy estimating conviction Removed.</p>
+							<p class="text-white mb-0">PHP, NodeJS & Python developer</p>
 						</div>
 					</div>
 					<!-- Card Overlay END -->						
@@ -359,14 +360,14 @@ Team END -->
 
 <!-- =======================
 CTA START-->
-<section class="bg-light py-5">
+<section data-aos="zoom-out-down" class="bg-light py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-7 mx-auto text-center justify-content-between">
 				<!-- Title -->
-				<h2 class="mb-3">Interested to work with us?</h2>
+				<h2 class="mb-3">Got a project for us?</h2>
 				<!-- Content -->
-				<p class="mb-4">Rooms oh fully taken by worse do. Points afraid but may end law lasted. Was out laughter raptures returned outweigh</p>
+				<p class="mb-4">We're always available to take your project requests at every working hour on business days so get in touch now to get started.</p>
 				 
 				<div class="hstack flex-wrap gap-4 justify-content-center">
 					<!-- Button -->
@@ -376,9 +377,9 @@ CTA START-->
 				<!-- Icon -->
         <a href="#" class="d-flex align-items-center">
           <div class="icon-md bg-primary text-white rounded-circle">
-            <i class="bi bi-telephone-fill fs-6"></i>       
+            <i class="bi bi-whatsapp fs-6"></i>       
           </div>
-          <span class="text-body fw-bold ms-3">+1-202-444-0133</span>
+          <span class="text-body fw-bold ms-3">+234-901-635-1227</span>
         </a>
          
 				</div>

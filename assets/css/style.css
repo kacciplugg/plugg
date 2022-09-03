@@ -299,6 +299,15 @@ figure {
   margin: 0 0 1rem;
 }
 
+.new-card-height{
+  height: 346px !important;
+}
+
+.image-fill{
+  height: 346px;
+  object-fit: cover !important;
+}
+
 img,
 svg {
   vertical-align: middle;
