@@ -157,7 +157,9 @@ About START -->
 				<!-- Message box END -->
 
 				<!-- Image -->
-				<img src="assets/images/AdobeStock_132106972.jpeg" class="rounded-4 rounded-bottom-right-0" height="800" width="800" alt="">        
+				<div class="rounded-4 rounded-bottom-right-0 goal-cont">
+				<img src="assets/images/AdobeStock_119867158.jpeg" class="rounded-4 rounded-bottom-right-4 goal-cont-image" alt="">
+				</div>
 			</div>
 		</div><!-- Row END -->
 	</div>
@@ -375,7 +377,7 @@ CTA START-->
 				
         <!-- CTA -->
 				<!-- Icon -->
-        <a href="#" class="d-flex align-items-center">
+        <a href="https://wa.me/2349016351227" class="d-flex align-items-center">
           <div class="icon-md bg-primary text-white rounded-circle">
             <i class="bi bi-whatsapp fs-6"></i>       
           </div>
