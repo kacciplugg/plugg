@@ -48,10 +48,10 @@
   --bs-black-rgb: 0, 0, 0;
   --bs-body-color-rgb: 127, 146, 170;
   --bs-body-bg-rgb: 255, 255, 255;
-  --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --bs-font-sans-serif: system-ui, -apple-system, "Red Hat Display";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-  --bs-body-font-family: Inter, sans-serif;
+  --bs-body-font-family: 'Red Hat Display', sans-serif;
   --bs-body-font-size: 0.875rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
@@ -100,7 +100,7 @@ hr:not([size]) {
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  font-family: "Inter", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   font-weight: 700;
   line-height: 1.25;
   color: #071c37;
@@ -297,6 +297,15 @@ kbd kbd {
 
 figure {
   margin: 0 0 1rem;
+}
+
+.new-card-height{
+  height: 346px !important;
+}
+
+.image-fill{
+  height: 346px;
+  object-fit: cover !important;
 }
 
 img,
@@ -599,6 +608,17 @@ progress {
 }
 .blockquote-footer::before {
   content: "— ";
+}
+
+.goal-cont{
+  height: 450px;
+  width: 450px;
+}
+
+.goal-cont-image{
+  height: 450px;
+  width: 450px;
+  object-fit: cover;
 }
 
 .img-fluid {
@@ -923,6 +943,10 @@ progress {
 .g-4,
 .gx-4 {
   --bs-gutter-x: 1.5rem;
+}
+
+.desdev{
+  padding-top: 50px;
 }
 
 .g-4,
@@ -6411,7 +6435,7 @@ textarea.form-control-lg {
   z-index: 1080;
   display: block;
   margin: 0;
-  font-family: "Inter", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
@@ -6513,7 +6537,7 @@ textarea.form-control-lg {
   z-index: 1070;
   display: block;
   max-width: 276px;
-  font-family: "Inter", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
@@ -9430,6 +9454,56 @@ textarea.form-control-lg {
 
 .pe-auto {
   pointer-events: auto !important;
+}
+
+.services-section{
+  background-image: url("../../assets/images/AdobeStock_262058183.jpeg");
+  background-size: cover;
+}
+
+.hero-girl-1{
+  height: 200px;
+  width: 200px;
+  background-image: url("../../assets/images/AdobeStock_333924926.jpeg");
+  background-size: cover;
+}
+
+.hero-girl-2{
+  height: 421px;
+  width: 421px;
+  background-image: url("../../assets/images/AdobeStock_361302823.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-girl-3{
+  height: 200px;
+  width: 200px;
+  background-image: url("../../assets/images/AdobeStock_317044241.jpeg");
+  background-size: cover;
+}
+
+.hero-girl-4{
+  height: 421px;
+  width: 421px;
+  background-image: url("../../assets/images/woman-with-mobile-phone-lady-with-documents.jpg");
+  background-size: cover;
+}
+
+.hero-guy-5{
+  height: 340px;
+  width: 340px;
+  background-image: url("../../assets/images/AdobeStock_166747171.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-guy-6{
+  height: 165px;
+  width: 165px;
+  background-image: url("../../assets/images/AdobeStock_279424976.jpeg");
+  background-size: cover;
+  background-position: center;
 }
 
 .rounded {

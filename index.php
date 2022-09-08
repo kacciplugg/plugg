@@ -11,7 +11,7 @@
  
 	<meta property="og:site_name" content="Plugg Resources">
 	<meta property="og:title" content="Plugg Resources">
-	<meta property="og:description" content="An Online Web Development and Graphic Design Collective specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
+	<meta property="og:description" content="An online digital design and development agency specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
 
 	<meta property="og:image" itemprop="image" content="assets/images/favicon.ico">
 
@@ -30,7 +30,7 @@
 	<!-- Google Font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" >
+	<link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 	
 	<!-- Plugins CSS -->
 	<link rel="stylesheet" type="text/css" href="assets/vendor/font-awesome/css/all.min.css">
@@ -309,13 +309,13 @@ Main banner START -->
         <div class="swiper-slide">
           <div class="col-lg-5 z-index-9">
             <!-- Title -->
-            <h1 class="text-white">We bring your <span class="text-warning">digital ideas</span> to life!</h1>
+            <h1 class="text-white">Bringing your <span class="text-warning">digital ideas</span> to life!</h1>
             <!--Content -->
             <p class="text-white mb-0">We perfectly understand what modern businesses, products and brands need to succeed in the current world; an outstandingly developed visual identity and we're ready to help you build it!</p>
 
             <!-- Button -->
             <div class="my-4">
-              <a class="btn btn-warning mb-0">Get demo</a>
+              <a class="btn btn-warning mb-0">Learn More</a>
               <!-- <a class="btn btn-white btn-white-shadow btn-round btn-lg ms-3 mb-0" data-glightbox="" data-gallery="hero"  href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i></a> -->
             </div>
 
@@ -352,8 +352,10 @@ Main banner START -->
                 <!-- Svg END--> 
 
                 <!-- Image -->
-                <img src="assets/images/bg/02.jpg" class="rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative" alt="hero">
+				<div class="hero-girl-1 rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative">
+                <!-- <img src="assets/images/bg/02.jpg" class="rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative" alt="hero"> -->
               </div>
+			</div>
           
               <div class="col-lg-8 position-relative">
                 
@@ -377,8 +379,10 @@ Main banner START -->
                   <!-- Svg END-->
 
                   <!-- Image -->
-                  <img src="assets/images/bg/01.jpg" class="rounded-top-right-10" alt="hero">
-                </div>
+                  <div class="hero-girl-2 rounded-top-right-10">
+                <!-- <img src="assets/images/bg/02.jpg" class="rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative" alt="hero"> -->
+              </div>
+			</div>
           
                 <!-- Message Box -->
                 <div class="col-7 position-absolute top-0 start-0 ms-n9 d-none d-lg-block">
@@ -399,12 +403,12 @@ Main banner START -->
                 <div class="hstack flex-wrap gap-3 mt-3 justify-content-lg-end">
                   <div class="bg-white bg-opacity-25 rounded-pill text-white py-2 px-3">
                     <!-- Icon -->
-                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Do it your-self approach
+                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Verified solutions
                   </div>
 
                   <div class="bg-white bg-opacity-25 rounded-pill text-white py-2 px-3 ms-lg-0">
                     <!-- Icon -->
-                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Our team do anything
+                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Creativity-based output
                   </div>
                 </div>
               </div>
@@ -418,13 +422,13 @@ Main banner START -->
         <div class="swiper-slide">
           <div class="col-lg-5 z-index-9">
             <!-- Title -->
-            <h1 class="text-white">Redirect your <span class="text-warning">analysis</span> with feature</h1>
+            <h1 class="text-white">Putting <span class="text-warning">your brand</span> ahead of the pack</h1>
             <!--Content -->
-            <p class="text-white mb-0">Started several mistake joy say painful removed reached end. State burst think end are its. Arrived off she elderly beloved him affixed noisier yet.</p>
+            <p class="text-white mb-0">They're a ton of brands, businesses and products already in the market. Getting the right branding and tools required for online discoverability and customer accessibility automatically sets you in front.</p>
 
             <!-- Button -->
             <div class="my-4">
-              <a class="btn btn-warning mb-0">Get demo</a>
+              <a class="btn btn-warning mb-0">Learn More</a>
               <!-- <a class="btn btn-white btn-white-shadow btn-round btn-lg ms-3 mb-0" data-glightbox="" data-gallery="hero"  href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i></a> -->
             </div>
 
@@ -461,8 +465,10 @@ Main banner START -->
                 <!-- Svg END--> 
 
                 <!-- Image -->
-                <img src="assets/images/bg/02.jpg" class="rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative" alt="hero">
+                <div class="hero-girl-3 rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative">
+                <!-- <img src="assets/images/bg/02.jpg" class="rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative" alt="hero"> -->
               </div>
+			</div>
           
               <div class="col-lg-8 position-relative">
                 
@@ -486,8 +492,10 @@ Main banner START -->
                   <!-- Svg END-->
 
                   <!-- Image -->
-                  <img src="assets/images/bg/01.jpg" class="rounded-top-right-10" alt="hero">
-                </div>
+                  <div class="hero-girl-4 rounded-top-right-10">
+                <!-- <img src="assets/images/bg/02.jpg" class="rounded-3 mb-0 mb-lg-9 mt-5 mt-lg-0 position-relative" alt="hero"> -->
+              </div>
+			</div>
           
                 <!-- Message Box -->
                 <div class="col-7 position-absolute top-0 start-0 ms-n9 d-none d-lg-block">
@@ -508,12 +516,12 @@ Main banner START -->
                 <div class="hstack flex-wrap gap-3 mt-3 justify-content-lg-end">
                   <div class="bg-white bg-opacity-25 rounded-pill text-white py-2 px-3">
                     <!-- Icon -->
-                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Do it your-self approach
+                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Well laid out approach
                   </div>
 
                   <div class="bg-white bg-opacity-25 rounded-pill text-white py-2 px-3 ms-lg-0">
                     <!-- Icon -->
-                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Our team do anything
+                    <i class="bi bi-patch-check-fill text-primary me-2"></i>Reaching business goals
                   </div>
                 </div>
               </div>
@@ -533,7 +541,7 @@ Hero banner END -->
 
 <!-- =======================
 Service section START -->
-<section data-aos="zoom-out-down">	
+<section class="services-section" data-aos="zoom-out-down">	
 	<div class="container position-relative">
 
 		<!-- Svg START-->
@@ -563,12 +571,12 @@ Service section START -->
 				<div class="card card-body shadow rounded-4 rounded-bottom-right-0 p-4 servCard">					
 					<!-- Icon -->						
 					<div class="icon-md fs-6 text-primary bg-primary bg-opacity-25 rounded-3 rounded-bottom-right-0 mb-3">
-						<i class="bi bi-exclamation-diamond fa-fw"></i>
+						<i class="bi bi-laptop fa-fw"></i>
 					</div>
 					<!-- Title -->
 					<h6 class="mb-3">Website Development</h6>
 					<!-- Content -->
-					<p class="card-text">Our skilled developers are constantly eager to deliver aesthetic, functional and responsive websites, whatever the kind, for your brand, business, school or company.</p>
+					<p class="card-text">Our skilled web designers and developers are constantly eager to deliver aesthetic, functional and responsive websites, whatever the kind, for your brand, business, school or company.</p>
 					<!-- Button link -->
 					<a href="#" class="card-link text-primary fw-bold">Learn more</a>
 				</div> 
@@ -580,12 +588,12 @@ Service section START -->
 				<div class="card card-body shadow  rounded-4 rounded-bottom-right-0 p-4 servCard">					
 					<!-- Icon -->
 					<div class="icon-md fs-6 text-primary bg-primary bg-opacity-25 rounded-3 rounded-bottom-right-0 mb-3">
-						<i class="bi bi-graph-up fa-fw"></i>
+					<i class="bi bi-menu-button-wide-fill fa-fw"></i>
 					</div>					
 					<!-- Title -->
 					<h6 class="mb-3">Custom Software Development</h6>
 					<!-- Content -->
-					<p class="card-text">Need an online platform for specialized tasks and services? Not to worry! Get personalized, standard web applications built for your company or service.</p>
+					<p class="card-text">Need an online platform for specialized tasks and services? Not to worry! Send us a message to get personalized, standard web applications built for your company or service.</p>
 					<!-- Button link -->
 					<a href="#" class="card-link text-primary fw-bold">Learn more</a>            
 				</div>				
@@ -597,7 +605,7 @@ Service section START -->
 				<div class="card card-body shadow rounded-4 rounded-bottom-right-0 p-4 servCard">
 						<!-- Icon -->						
 						<div class="icon-md fs-6 text-primary bg-primary bg-opacity-25 rounded-3 rounded-bottom-right-0 mb-3">
-							<i class="bi bi-pencil-square fa-fw"></i>
+						<i class="bi bi-palette-fill fa-fw"></i>
 						</div>
 						<!-- Title -->
 						<h6 class="mb-3">Graphic Design</h6>
@@ -614,12 +622,12 @@ Service section START -->
 				<div class="card card-body shadow rounded-4 rounded-bottom-right-0 p-4 servCard">				
 					<!-- Icon -->
 					<div class="icon-md fs-6 text-primary bg-primary bg-opacity-25 rounded-3 rounded-bottom-right-0 mb-3">
-						<i class="bi bi-chat fa-fw"></i>
+					<i class="bi bi-bezier fa-fw"></i>
 					</div>
 					<!-- Title -->
 					<h6 class="mb-3">UI/UX Design</h6>
 					<!-- Content -->
-					<p class="card-text">Modern interfaces require the right amount of research mixed with design to be deployed rightly to the satisfaction of clients and end-users. We are here to help you achieve this!</p>
+					<p class="card-text">Modern interfaces require just the right amount of research mixed with design to be deployed rightly to the satisfaction of clients and end-users. We are here to help you achieve this and many more!</p>
 					<!-- Button link -->
 					<a href="#" class="card-link text-primary fw-bold">Learn more</a>
 				</div> 
@@ -694,7 +702,7 @@ About section  END -->
 					<div class="col-lg-8 position-relative">
 						<!-- Message Box -->
 						<div class="col-9 position-absolute top-0 end-0 translate-middle-y mt-9 me-n9 d-none d-lg-block z-index-9">
-							<div class="bg-white rounded-3 position-relative py-3 px-4">
+							<div class="bg-white rounded-3 shadow position-relative py-3 px-4">
 								<div>
 									<!-- Icon -->
 									<i class="bi bi-check2-circle text-primary fs-4"></i>
@@ -702,7 +710,7 @@ About section  END -->
 								<!-- Title -->
 								<h6>Creative insight</h6>
 								<!-- Content -->
-								<p class="mt-2 mb-0 text-dark">Including a smile in the creative-led to 103% lift in second view-thought</p>
+								<p class="mt-2 mb-0 text-dark">With creativity at the very centre of our values, every project is greatly unique!</p>
 							</div>
 						</div>
 
@@ -718,7 +726,9 @@ About section  END -->
 							</figure>
 							<!-- Svg  END-->
 							<!-- Image -->
-							<img src="assets/images/about/01.jpg" class="rounded-top-left-10" alt="about">
+							<div class="hero-guy-5 rounded-top-left-10">
+							<!-- <img src="assets/images/about/01.jpg" class="rounded-top-left-10" alt="about"> -->
+							</div>
 						</div>
 
 						<!-- Avatars -->
@@ -726,17 +736,17 @@ About section  END -->
 							<ul class="avatar-group align-items-center">
 								<li class="avatar">
 									<!-- Image -->
-									<img class="avatar-img rounded-circle" src="assets/images/avatar/01.jpg" alt="avatar">
+									<img class="avatar-img rounded-circle" src="assets/images/avatar/Eloka.jpeg" alt="avatar">
 								</li>
 								<li class="avatar">
 									<!-- Image -->
-									<img class="avatar-img rounded-circle" src="assets/images/avatar/02.jpg" alt="avatar">
+									<img class="avatar-img rounded-circle" src="assets/images/avatar/paschal.jpg" alt="avatar">
 								</li>
 								<li class="avatar">
 									<!-- Image -->
-									<img class="avatar-img rounded-circle" src="assets/images/avatar/03.jpg" alt="avatar">
+									<img class="avatar-img rounded-circle" src="assets/images/avatar/AdobeStock_443352225.jpeg" alt="avatar">
 								</li>
-								<li class="list-unstyled ms-4">Customer satisfaction</li>
+								<li class="list-unstyled ms-4">100% Customer satisfaction</li>
 							</ul>
 						</div>	
 					</div>
@@ -751,23 +761,24 @@ About section  END -->
 						<!-- Svg END -->
 
 						<!-- Image -->
-						<img src="assets/images/about/02.jpg" class="rounded-3" alt="about">
+						<div class="hero-guy-6 rounded-3">
+						<!-- <img src="assets/images/about/02.jpg" class="rounded-3" alt="about"> -->
+						</div>
 					</div>  
 				</div><!-- Row END -->				
 			</div>
 			
 			<div class="col-lg-6">
 				<!-- Title -->
-				<h2 class="mb-3">Start your business with formax</h2>
+				<h2 class="mb-3">The perfect blend of Design & Dev</h2>
 				<!-- Content -->
-				<p class="mb-0">Two before narrow not relied upon except moment myself Dejection</p>
-				<p>assurance Mrs led certainly</p>
+				<p class="mb-0">Getting the right balance between eye-catching visuals and functionality is always vital in the grand scale of digital technology. At Plugg Resources, we understand just how important this is for the successful promotion and consumption of products and therefore, continue to strive towards perfection.</p>
 				<!-- Counter START -->
-				<div class="row g-4">
+				<div class="row g-4 desdev">
 					<!-- First counter column -->
 					<div class="col-sm-4 col-md-6 col-xl-4">
 						<div class="d-flex">
-							<h3 class="purecounter text-primary" data-purecounter-start="0" data-purecounter-end="90" data-purecounter-delay="100">90</h3>
+							<h3 class="purecounter text-primary" data-purecounter-start="0" data-purecounter-end="30" data-purecounter-delay="100">30</h3>
 							<span class="text-primary display-6">+</span>
 						</div>
 						<!-- Title -->
@@ -777,7 +788,7 @@ About section  END -->
 					<!-- Second counter column -->
 					<div class="col-sm-4 col-md-6 col-xl-4">
 						<div class="d-flex">
-							<h3 class="purecounter text-primary" data-purecounter-start="0" data-purecounter-end="180" data-purecounter-delay="100">180</h3>
+							<h3 class="purecounter text-primary" data-purecounter-start="0" data-purecounter-end="100" data-purecounter-delay="100">100</h3>
 							<span class="text-primary display-6">+</span>
 						</div>
 						<!-- Title -->
@@ -787,17 +798,17 @@ About section  END -->
 					<!-- Third counter column -->
 					<div class="col-sm-4 col-md-6 col-xl-4">
 						<div class="d-flex">
-							<h3 class="purecounter text-primary" data-purecounter-start="0" data-purecounter-end="15" data-purecounter-delay="100">15</h3>
+							<h3 class="purecounter text-primary" data-purecounter-start="0" data-purecounter-end="30" data-purecounter-delay="100">30</h3>
 							<span class="text-primary display-6">+</span>
 						</div>
 						<!-- Title -->
-						<h6 class="mb-0">Winning awards</h6>
+						<h6 class="mb-0">Referrals & Recommendations</h6>
 					</div> 
 				</div>
 				<!-- Counter END -->	
 
 				<!-- Button -->
-				<button class="btn btn-warning mt-4">Know more</button>
+				<a class="btn btn-warning mt-4" href="case-study.php">Learn More</a>
 			</div>
 
 		</div><!-- Row END -->
@@ -814,9 +825,9 @@ Testimonial section  START -->
 		<div class="row">
 			<div class="col-lg-5 text-center mx-auto">
 				<!-- Title -->
-				<h2 class="mb-3">What our client says</h2>
+				<h2 class="mb-3">What our clients say</h2>
 				<!-- Content -->
-				<p>Impression assistance contrasted Manners she wishing justice hastily new anxious</p>
+				<p>Get to know what businesses and individuals think of us</p>
 			</div>
 		</div><!-- Row END -->    
 
@@ -1055,7 +1066,7 @@ Action box END -->
 
 <!-- =======================
 Step START -->
-<section style="margin-top: -120px;">
+<section style="margin-top: -50px;">
 	<div class="container">
 		<!-- Tabs -->
 		<div class="row align-items-center g-4">
@@ -1225,187 +1236,9 @@ Pricing plan START -->
 				<!-- Title -->
 				<h2 class="mb-3">Ready to work with us?</h2>
 				<!-- Content -->
-				<p>You couldn't have made it all this way if you weren't gonna work with us...right? Feel free to contact us if you still have more enquiries; otherwise, here are the peanuts we charge for our exquisite tech services</p>
+				<p>You couldn't have made it all this way if you weren't gonna work with us...right? Feel free to contact us if you still have more enquiries; otherwise, we may take your project request below</p>
 			</div>
 		</div><!-- Row END -->
-
-		<div class="row g-2 mb-4 justify-content-between align-items-center">
-			
-			<div class="col-md-4">
-				<!-- Switch START  -->
-				<form class="d-flex align-items-center">
-					<!-- Label -->
-					<span class="text-dark fw-bold">Monthly</span>
-					<!-- Switch -->
-					<div class="form-check form-switch form-check-lg mx-3 mb-0">
-						<input class="form-check-input mt-0 price-toggle" type="checkbox" id="flexSwitchCheckDefault">
-					</div>
-					<!-- Label -->
-					<div>
-						<span class="text-dark fw-bold">Annually</span>
-					</div>
-				</form>
-				<!-- Switch END -->
-			</div>
-
-			<div class="col-md-4 text-lg-end">
-				<!-- Title -->
-				<p class="mb-0">Join and gets a 20% off coupon</p>
-			</div>
-
-		</div><!-- Row END -->
-
-		<div class="row g-4 justify-content-center">
-
-			<div class="col-xl-3 position-relative">
-				<!-- Svg START -->
-				<figure class="position-absolute bottom-0 end-0 me-n8 d-none d-xl-block">
-					<svg class="opacity-1">
-						<path d="M0,3.2C0.7,2.3,1.4,1.5,2.6,0c1.1,8.4,6.8,12.6,12.3,16.8C25.7,25.2,38.1,30.5,51.2,34c0.7,0.2,1.5,0.2,2.4,0.3
-						c2.8-7.9,8.5-12.1,16.5-13c3.4-0.4,7.8-0.3,9,3.2c1.1,3,0.9,7.3-0.6,10c-1.6,2.9-5.3,4.8-8.3,6.7C68.9,42,67,42,64.3,42.5
-						c24.1,12.9,47.9,8.1,71.7,2.5c0.9,3.3-0.1,5.4-2.9,6.5c-21.5,8.7-43.2,12-65.4,2.5c-5.5-2.3-10.1-5.5-13.1-11
-						c-0.7-1.3-2.8-2.3-4.4-2.7C37,37.3,24.8,31.8,14,23.4C7.7,18.5,2.2,12.8,0,4.8C0,4.2,0,3.7,0,3.2z M75.8,30.7
-						c-5.4-4.2-15.4-1.1-16.8,4.8C65.1,36,71.1,36.2,75.8,30.7z"/>
-						<path d="M133.5,61.6c-2-2.6-1.3-4.9,0.6-7.1c3.1-3.7,6.3-7.3,9.8-11.3c-7.6-1.6-14.8-3.1-21.9-4.6c-2.4-0.5-4.9-1.4-7.3-1.5
-						c-2.6-0.1-3.6-1.2-3.4-3.7c0.2-2.7,2.3-2.6,4.1-2.4c4.7,0.6,9.4,1.4,14.1,2.2c6.5,1,13,1.9,19.5,3.1c1.5,0.3,2.9,1.5,4.4,2.2
-						c0,1.1,0,2.1,0,3.2c-2.1,2.6-4,5.3-6.3,7.7c-4.1,4.2-8.5,8.1-12.7,12.1C134,61.6,133.8,61.6,133.5,61.6z"/>     
-					</svg>
-				</figure>
-				<!-- Svg END -->
-				
-				<!-- Feature box START -->       
-				<ul class="list-group">
-					<!-- List group item -->
-					<li class="list-group-item border-0 p-0 mb-2">
-						<i class="bi bi-check-circle-fill text-primary me-2"></i>Free 1 month trial for new user
-					</li>
-					<li class="list-group-item border-0 p-0">
-						<i class="bi bi-check-circle-fill text-primary me-2"></i>Full functionality
-					</li>
-					<!-- list group item END -->
-				</ul>
-				<!-- Button -->
-				<button class="btn btn-primary mt-4 mb-0">Full pricing comparison</button>
-				<!-- Feature box END -->      
-			</div>
-
-			<div class="col-md-6 col-lg-4 col-xl-3" data-aos="flip-right" data-aos-easing="linear" data-aos-duration="300">
-				<!-- Card START -->
-				<div class="card card-body p-4 rounded-bottom-right-0">          
-					<div class="d-flex align-items-center justify-content-between">
-						<!-- Info -->
-						<h6 class="mb-0">Starter plan</h6>
-						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary-soft text-primary">Free</span>
-					</div>
-
-					<!-- Price -->
-					<div class="d-flex align-items-center my-3">
-						<h5 class="mb-0 plan-price" data-monthly-price="$0.00" data-annual-price="$5.99">$0.00</h5>            
-					</div>
-				 
-					<!-- List Group START -->
-					<ul class="list-group list-group-borderless border-0">
-						<!-- List group item START -->
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry outlet
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry staff
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-x-circle-fill text-danger me-2"></i>Withdraw balance anytime
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-x-circle-fill text-danger me-2"></i>Basic reports & analytics
-						</li>
-						<!-- List group item END -->
-					</ul>
-					<!-- List Group END -->
-
-					<!-- Button -->
-					<a href="#" class="btn btn-light mt-3">Purchase now</a>          
-				</div>
-				<!-- Card END -->
-			</div>
-
-			<div class="col-md-6 col-lg-4 col-xl-3" data-aos="flip-right" data-aos-easing="linear" data-aos-duration="700">
-				<!-- Card START -->
-				<div class="card card-body border border-primary p-4 rounded-bottom-right-0">
-					<div class="d-flex align-items-center justify-content-between">
-						<!-- Info -->
-						<h6 class="mb-0">Regular plan</h6>
-						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary-soft text-primary">Enterprise</span>
-					</div>
-					<!-- Price -->
-					<div class="d-flex align-items-center my-3">
-						<h5 class="mb-0 plan-price" data-monthly-price="$1.99" data-annual-price="$7.99">$1.99</h5>            
-					</div>
-
-					<!-- List group START -->
-					<ul class="list-group list-group-borderless border-0">
-					<!-- List group item START -->
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry outlet
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry staff
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>Withdraw balance anytime
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-x-circle-fill text-danger me-2"></i>Basic reports & analytics
-						</li>
-					<!-- List group END -->
-					</ul>
-					<!-- List group item END -->
-
-					<!-- Button -->
-					<a href="#" class="btn btn-warning mt-3">Purchase now</a>         
-				</div>
-				<!-- Card END -->
-			</div>
-
-			<div class="col-md-6 col-lg-4 col-xl-3" data-aos="flip-right" data-aos-easing="linear" data-aos-duration="1000">
-				<!-- Card START -->
-				<div class="card card-body p-4 rounded-bottom-right-0">          
-					<div class="d-flex align-items-center justify-content-between">
-						<!-- Info -->
-						<h6 class="mb-0">Advance plan</h6>
-						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary-soft text-primary">Premium</span>
-					</div>
-					<!-- Price -->
-					<div class="d-flex align-items-center my-3">
-						<h5 class="mb-0 plan-price" data-monthly-price="$3.99" data-annual-price="$7.99">$7.99</h5>            
-					</div>
-				 
-					<!-- List Group START-->
-					<ul class="list-group list-group-borderless border-0">
-						<!-- List group item START -->
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry outlet
-						</li>
-						<li class="list-group-item border-0 px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry staff
-						</li>
-						<li class="list-group-item border-0 px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>Withdraw balance anytime
-						</li>
-						<li class="list-group-item border-0 px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>Basic reports & analytics
-						</li>
-						<!-- List group item END -->
-					</ul>
-					<!-- List group END -->
-
-					<!-- Button -->
-					<a href="#" class="btn btn-light mt-3">Purchase now</a>          
-				</div>
-				<!-- Card END -->
-			</div>
 			
 		</div><!-- Row END -->
 	</div>
