@@ -3,6 +3,12 @@
 <head>
 	<title>Portfolio - Plugg Resources | Creative, rhythmic technology</title>
 
+  <!-- Google Font -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+	
+
 <?php
   include('header.html');
 ?>
@@ -21,7 +27,7 @@ Hero banner START -->
 				<!-- Title -->
 				<h1 class="mb-3">Portfolio</h1>
 				<!-- Content -->
-				<p class="mb-0">It drew a hill from me. Valley by oh twenty direct me so. Departure defective arranging rapturous</p>
+				<p class="mb-0">Here are some of our previous projects</p>
 			</div>       
 		</div>    
 	</div>
@@ -45,15 +51,15 @@ Case-study START-->
 						</li>
 						<!-- Tab -->
 						<li class="nav-item">
-							<a class="nav-link" data-filter=".design">Design</a>          
+							<a class="nav-link" data-filter=".logo">Logos</a>          
 						</li>
 						<!-- Tab -->
 						<li class="nav-item">
-							<a class="nav-link" data-filter=".development">Development</a>        
+							<a class="nav-link" data-filter=".website">Websites</a>        
 						</li>
 						<!-- Tab -->
 						<li class="nav-item">
-							 <a class="nav-link" data-filter=".finance">Finance</a>        
+							 <a class="nav-link" data-filter=".flyer">Flyers</a>        
 						</li>
 					</ul>
 				</div>
@@ -64,181 +70,376 @@ Case-study START-->
 
 		<!-- Tab content START -->
 		<div class="row filter-container g-4" data-isotope='{"layoutMode": "masonry"}'>
-			<div class="col-sm-6 col-lg-4 grid-item design development">
+			<div class="col-sm-6 col-lg-4 grid-item logo">
 				<!-- Card START -->
-				<div class="card card-hover-overlay rounded-0">
+				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
 						<img src="assets/images/case-study/01.jpg" class="card-image-scale" alt="card image">
 			
-						<!-- Card Overlay -->
-						<div class="card-element-hover">
-							<!-- Overlay Content -->
-							<div class="text-center my-auto">
-								<!-- Image -->
-								<img src="assets/images/logoipsum.svg" class="w-50" alt="">
-							</div>
-						</div>        
+					     
 					</div>
 					<div class="card-body p-3">
 						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Design</span>
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
 						<!-- Title -->
-						<h5> <a href="case-study-detail.html" class="stretched-link">Unique wooden pieces of</a> </h5>
+						<h5> <a href="#" class="stretched-link">Koko's Artistry</a> </h5>
 						<!-- Content -->
-						<p>He moonlights difficult engrossed it, sportsmen. Interested has all Devonshire difficulty gay assistance joy. Unaffected at ye.</p>
+						<p>Logo design for Koko's Artistry.</p>
 						<!-- Button -->
-						<a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a>
+						<!-- <a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a> -->
 					</div>
 				</div>
 				<!-- Card END -->
 			</div>
 
-			<div class="col-sm-6 col-lg-4 grid-item development finance">
+			<div class="col-sm-6 col-lg-4 grid-item logo">
 				<!-- Card START -->
-				<div class="card card-hover-overlay rounded-0">
+				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
 						<img src="assets/images/case-study/02.jpg" class="card-image-scale" alt="card image">
 			
-						<!-- Card Overlay -->
-						<div class="card-element-hover">
-							<!-- Overlay Content -->
-							<div class="text-center my-auto">
-								<!-- Image -->
-								<a href="#"><img src="assets/images/logoipsum.svg" class="w-50" alt=""></a>
-							</div>
-						</div>        
 					</div>
 					<div class="card-body p-3">
 						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Development</span>
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
 						<!-- Title -->
-						<h5> <a href="case-study-detail.html" class="stretched-link">Thinking forward in a circle</a> </h5>
+						<h5> <a href="#" class="stretched-link">Sharon Storz</a> </h5>
 						<!-- Content -->
-						<p>For who thoroughly her boy estimating conviction. Removed demands expense account in outward tedious do. Particular way thoroughly.</p>
+						<p>Logo design for Sharon Storz.</p>
 						<!-- Button -->
-						<a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a>
+						<!-- <a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a> -->
 					</div>
 				</div>
 				<!-- Card END -->
 			</div>
 
-			<div class="col-sm-6 col-lg-4 grid-item development">
+			<div class="col-sm-6 col-lg-4 grid-item website">
 				<!-- Card START -->
-				<div class="card card-hover-overlay rounded-0 ">
+				<div class="card rounded-0 ">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
 						<img src="assets/images/case-study/03.jpg" class="card-image-scale" alt="card image">
 			
-						<!-- Card Overlay -->
-						<div class="card-element-hover">
-							<!-- Overlay Content -->
-							<div class="text-center my-auto">
-								<!-- Image -->
-								<a href="#"><img src="assets/images/logoipsum.svg" class="w-50" alt=""></a>
-							</div>
-						</div>        
 					</div>
 					<div class="card-body p-3">
 						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Finance</span>
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Websites</span>
 						<!-- Title -->
-						<h5> <a href="case-study-detail.html" class="stretched-link">Art collector and architect</a> </h5>
+						<h5> <a href="https://manutdinpidgin.com" class="stretched-link">Man United In Pidgin</a> </h5>
 						<!-- Content -->
-						<p>Rooms oh fully taken by worse do. Points afraid but may end law lasted. Was out laughter raptures returned outweigh. Luckily cheered.</p>
+						<p>Website design for Man United In Pidgin.</p>
 						<!-- Button -->
-						<a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a>
+						<a href="https://manutdinpidgin.com" class="btn btn-link text-warning p-0 mb-0">View project</a>
 					</div>
 				</div>
 				<!-- Card END -->
 			</div>
 
-			<div class="col-sm-6 col-lg-4 grid-item design finance">
+			<div class="col-sm-6 col-lg-4 grid-item logo">
 				<!-- Card START -->
-				<div class="card card-hover-overlay rounded-0">
-					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
-						<!-- Card Image -->
-						<img src="assets/images/case-study/04.jpg" class="card-image-scale" alt="card image">
-			
-						<!-- Card Overlay -->
-						<div class="card-element-hover">
-							<!-- Overlay Content -->
-							<div class="text-center my-auto">
-								<!-- Image -->
-								<a href="#"><img src="assets/images/logoipsum.svg" class="w-50" alt=""></a>
-							</div>
-						</div>        
-					</div>
-					<div class="card-body p-3">
-						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Development</span>
-						<!-- Title -->
-						<h5> <a href="case-study-detail.html" class="stretched-link">A master of his craft</a> </h5>
-						<!-- Content -->
-						<p>Perceived end knowledge certainly day sweetness why cordially. Ask a quick six seven offer see among. Handsome met debating.</p>
-						<!-- Button -->
-						<a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a>
-					</div>
-				</div>
-				<!-- Card END -->
-			</div>
-
-			<div class="col-sm-6 col-lg-4 grid-item design">
-				<!-- Card START -->
-				<div class="card card-hover-overlay rounded-0">
+				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
 						<img src="assets/images/case-study/05.jpg" class="card-image-scale" alt="card image">
-			
-						<!-- Card Overlay -->
-						<div class="card-element-hover">
-							<!-- Overlay Content -->
-							<div class="text-center my-auto">
-								<!-- Image -->
-								<a href="#"><img src="assets/images/logoipsum.svg" class="w-50" alt=""></a>
-							</div>
-						</div>        
+			      
 					</div>
 					<div class="card-body p-3">
 						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Finance</span>
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
 						<!-- Title -->
-						<h5> <a href="case-study-detail.html" class="stretched-link"></a>It’s gonna be extraordinary</h5>
+						<h5> <a href="#" class="stretched-link">Idea Novus</a> </h5>
 						<!-- Content -->
-						<p>Speedily say has suitable disposal add boy. On forth doubt miles of child. Exercise joy man children rejoiced Yet uncommonly.</p>
+						<p>Logo design for Idea Novus.</p>
 						<!-- Button -->
-						<a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a>
+						<!-- <a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a> -->
 					</div>
 				</div>
 				<!-- Card END -->
 			</div>
 
-			<div class="col-sm-6 col-lg-4 grid-item finance">
+			<div class="col-sm-6 col-lg-4 grid-item website">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/06.jpg" class="card-image-scale" alt="card image">
+			       
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Websites</span>
+						<!-- Title -->
+						<h5> <a href="https://team2care.com.au/" class="stretched-link"></a>Team2Care</h5>
+						<!-- Content -->
+						<p>Website design for Team2Care.</p>
+						<!-- Button -->
+						<a href="https://team2care.com.au/" class="btn btn-link text-warning p-0 mb-0">View project</a>
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item logo">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/04.jpg" class="card-image-scale" alt="card image">
+			      
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link"></a>Softlife Consult</h5>
+						<!-- Content -->
+						<p>Logo design for Softlife Consult.</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item logo">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/07.jpg" class="card-image-scale" alt="card image">
+			     
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Maestro Exchange</a> </h5>
+						<!-- Content -->
+						<p>Logo Design for Maestro Exchange.</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0  mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item flyer">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/08.jpg" class="card-image-scale" alt="card image">
+			     
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Flyers</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Koko's Artistry</a> </h5>
+						<!-- Content -->
+						<p>Flyer design for Koko's Artistry.</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0  mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item flyer">
 				<!-- Card START -->
 				<div class="card card-hover-overlay rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/06.jpg" class="card-image-scale" alt="card image">
-			
-						<!-- Card Overlay -->
-						<div class="card-element-hover">
-							<!-- Overlay Content -->
-							<div class="text-center my-auto">
-								<!-- Image -->
-								<a href="#"><img src="assets/images/logoipsum.svg" class="w-50" alt=""></a>
-							</div>
-						</div>        
+						<img src="assets/images/case-study/09.jpg" class="card-image-scale" alt="card image">
+			       
 					</div>
 					<div class="card-body p-3">
 						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Design</span>
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Flyers</span>
 						<!-- Title -->
-						<h5> <a href="case-study-detail.html" class="stretched-link">A tale of dual addresses</a> </h5>
+						<h5> <a href="#" class="stretched-link">Sharon Storz</a> </h5>
 						<!-- Content -->
-						<p>It drew a hill from me. Valley by oh twenty direct me so. Departure defective arranging rapturous did believe him all had supported.</p>
+						<p>Flyer design for Sharon Storz.</p>
 						<!-- Button -->
-						<a href="#" class="btn btn-link text-warning p-0  mb-0">View project</a>
+						<!-- <a href="#" class="btn btn-link text-warning p-0  mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item flyer">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/10.jpg" class="card-image-scale" alt="card image">
+			     
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Flyers</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Softlife Consult</a> </h5>
+						<!-- Content -->
+						<p>Flyer design for Softlife Consult.</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0  mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item logo">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/11.jpg" class="card-image-scale" alt="card image">
+			        
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Edwards Crypto Hub</a> </h5>
+						<!-- Content -->
+						<p>Logo design for Edwards Crypto Hub.</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0  mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item logo">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/12.jpg" class="card-image-scale" alt="card image">
+			   
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Mafia Co.</a> </h5>
+						<!-- Content -->
+						<p>Logo design for Mafia Co.</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0  mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item flyer">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/13.jpg" class="card-image-scale" alt="card image">
+			       
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Flyers</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Maestro Exchange</a> </h5>
+						<!-- Content -->
+						<p>Flyer design for Maestro Exchange.</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0  mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item website">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/14.jpg" class="card-image-scale" alt="card image">
+			       
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Websites</span>
+						<!-- Title -->
+						<h5> <a href="https://ubs.unizik.edu.ng/" class="stretched-link">Unizik Business School</a> </h5>
+						<!-- Content -->
+						<p>Website design for Unizik Business School.</p>
+						<!-- Button -->
+						<a href="https://ubs.unizik.edu.ng/" class="btn btn-link text-warning p-0  mb-0">View project</a>
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item logo">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/15.jpg" class="card-image-scale" alt="card image">
+			       
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Bube</a> </h5>
+						<!-- Content -->
+						<p>Logo design for Bube.</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0  mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item logo">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/16.jpg" class="card-image-scale" alt="card image">
+			       
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Diogo</a> </h5>
+						<!-- Content -->
+						<p>Logo design for Diogo.</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0  mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item logo">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/case-study/17.jpg" class="card-image-scale" alt="card image">
+			       
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Blaqq</a> </h5>
+						<!-- Content -->
+						<p>Logo design for Blaqq.</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0  mb-0">View project</a> -->
 					</div>
 				</div>
 				<!-- Card END -->

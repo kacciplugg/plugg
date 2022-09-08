@@ -204,6 +204,12 @@
       }
 
 
+      @media only screen and (min-width:992px) {
+        .feat {
+          margin-top: -120px;
+        }
+      }
+
     </style>
 
 </head>
@@ -240,7 +246,7 @@ Header START -->
 					<li class="nav-item"><a class="nav-link" href="case-study.php">Portfolio</a></li>
 
 					<!-- Nav item 4 Pricing -->
-					<li class="nav-item"><a class="nav-link" href="pricing.php">Pricing</a></li>
+					<!-- <li class="nav-item"><a class="nav-link" href="pricing.php">Pricing</a></li> -->
 
           <!-- Nav item 5 Contact-->
 					<li class="nav-item"><a class="nav-link" href="contact-us.php">Contact</a></li>
@@ -992,7 +998,7 @@ Action box END -->
 
 <!-- =======================
 Step START -->
-<section style="margin-top: -120px;">
+<section class="feat">
 	<div class="container">
 		<!-- Tabs -->
 		<div class="row align-items-center g-4">
@@ -1157,191 +1163,49 @@ Pricing plan START -->
 
 	<div class="container">
 	
-		<div class="row mb-3">
-			<div class="col-lg-6">
-				<!-- Title -->
-				<h2 class="mb-3">Ready to start with us?</h2>
-				<!-- Content -->
-				<p>Pleasure and so read the was hope entire first decided the so must have as on was want up of I will rival in came</p>
-			</div>
-		</div><!-- Row END -->
 
 		<div class="row g-2 mb-4 justify-content-between align-items-center">
 			
-			<div class="col-md-4">
-				<!-- Switch START  -->
-				<form class="d-flex align-items-center">
-					<!-- Label -->
-					<span class="text-dark fw-bold">Monthly</span>
-					<!-- Switch -->
-					<div class="form-check form-switch form-check-lg mx-3 mb-0">
-						<input class="form-check-input mt-0 price-toggle" type="checkbox" id="flexSwitchCheckDefault">
+			<div class="col-lg-10">
+				<!-- Title -->
+				<h2 class="mb-3">Get in touch</h2>
+				<!-- Form START -->
+				<form class="row g-3" action="homeForm.php" method="POST">
+					<div class="col-md-6">
+						<label for="inputName" class="form-label">Name</label>
+						<input type="text" class="form-control" name="fName" id="inputName" placeholder="Enter your name">
 					</div>
-					<!-- Label -->
-					<div>
-						<span class="text-dark fw-bold">Annually</span>
+					<div class="col-md-6">
+						<label for="inputEmail" class="form-label">Email </label>
+						<input type="email" class="form-control" name="email" id="inputEmail" placeholder="Enter your email">
+					</div>
+
+					<div class="col-md-6">
+						<label for="inputPhonenumber" class="form-label">Phone number (preferrably WhatsApp)</label>
+						<input type="text" class="form-control" name="phone" id="inputPhonenumber" placeholder="Enter your phone number">
+					</div>
+					<div class="col-md-6">
+						<label for="inputSubject" class="form-label">Project type</label>
+            <select class="form-control" id="inputSubject" name="project">
+              <option value="">-- Select --</option>
+              <option value="Logo Design">Logo Design</option>
+              <option value="Website Design">Website Design</option>
+              <option value="Flyer Design">Flyer Design</option>
+              <option value="Branding/Visual Identity">Branding/Visual Identity</option>
+            </select>
+					</div>
+
+					<div class="col-12">
+						<label for="exampleFormControlTextarea2" class="form-label">Briefly tell us about your project</label>
+						<textarea class="form-control" name="message" id="exampleFormControlTextarea2" rows="3" placeholder="Enter your full message"></textarea>
+					</div>          
+				 
+					<div class="col-12">
+						<!-- Button -->
+						<button type="submit" name="submit" class="btn btn-warning mb-0">Send message</button>
 					</div>
 				</form>
-				<!-- Switch END -->
-			</div>
-
-			<div class="col-md-4 text-lg-end">
-				<!-- Title -->
-				<p class="mb-0">Join and gets a 20% off coupon</p>
-			</div>
-
-		</div><!-- Row END -->
-
-		<div class="row g-4 justify-content-center">
-
-			<div class="col-xl-3 position-relative">
-				<!-- Svg START -->
-				<figure class="position-absolute bottom-0 end-0 me-n8 d-none d-xl-block">
-					<svg class="opacity-1">
-						<path d="M0,3.2C0.7,2.3,1.4,1.5,2.6,0c1.1,8.4,6.8,12.6,12.3,16.8C25.7,25.2,38.1,30.5,51.2,34c0.7,0.2,1.5,0.2,2.4,0.3
-						c2.8-7.9,8.5-12.1,16.5-13c3.4-0.4,7.8-0.3,9,3.2c1.1,3,0.9,7.3-0.6,10c-1.6,2.9-5.3,4.8-8.3,6.7C68.9,42,67,42,64.3,42.5
-						c24.1,12.9,47.9,8.1,71.7,2.5c0.9,3.3-0.1,5.4-2.9,6.5c-21.5,8.7-43.2,12-65.4,2.5c-5.5-2.3-10.1-5.5-13.1-11
-						c-0.7-1.3-2.8-2.3-4.4-2.7C37,37.3,24.8,31.8,14,23.4C7.7,18.5,2.2,12.8,0,4.8C0,4.2,0,3.7,0,3.2z M75.8,30.7
-						c-5.4-4.2-15.4-1.1-16.8,4.8C65.1,36,71.1,36.2,75.8,30.7z"/>
-						<path d="M133.5,61.6c-2-2.6-1.3-4.9,0.6-7.1c3.1-3.7,6.3-7.3,9.8-11.3c-7.6-1.6-14.8-3.1-21.9-4.6c-2.4-0.5-4.9-1.4-7.3-1.5
-						c-2.6-0.1-3.6-1.2-3.4-3.7c0.2-2.7,2.3-2.6,4.1-2.4c4.7,0.6,9.4,1.4,14.1,2.2c6.5,1,13,1.9,19.5,3.1c1.5,0.3,2.9,1.5,4.4,2.2
-						c0,1.1,0,2.1,0,3.2c-2.1,2.6-4,5.3-6.3,7.7c-4.1,4.2-8.5,8.1-12.7,12.1C134,61.6,133.8,61.6,133.5,61.6z"/>     
-					</svg>
-				</figure>
-				<!-- Svg END -->
-				
-				<!-- Feature box START -->       
-				<ul class="list-group">
-					<!-- List group item -->
-					<li class="list-group-item border-0 p-0 mb-2">
-						<i class="bi bi-check-circle-fill text-primary me-2"></i>Free 1 month trial for new user
-					</li>
-					<li class="list-group-item border-0 p-0">
-						<i class="bi bi-check-circle-fill text-primary me-2"></i>Full functionality
-					</li>
-					<!-- list group item END -->
-				</ul>
-				<!-- Button -->
-				<button class="btn btn-primary mt-4 mb-0">Full pricing comparison</button>
-				<!-- Feature box END -->      
-			</div>
-
-			<div class="col-md-6 col-lg-4 col-xl-3" data-aos="flip-right" data-aos-easing="linear" data-aos-duration="300">
-				<!-- Card START -->
-				<div class="card card-body p-4 rounded-bottom-right-0">          
-					<div class="d-flex align-items-center justify-content-between">
-						<!-- Info -->
-						<h6 class="mb-0">Starter plan</h6>
-						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary-soft text-primary">Free</span>
-					</div>
-
-					<!-- Price -->
-					<div class="d-flex align-items-center my-3">
-						<h5 class="mb-0 plan-price" data-monthly-price="$0.00" data-annual-price="$5.99">$0.00</h5>            
-					</div>
-				 
-					<!-- List Group START -->
-					<ul class="list-group list-group-borderless border-0">
-						<!-- List group item START -->
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry outlet
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry staff
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-x-circle-fill text-danger me-2"></i>Withdraw balance anytime
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-x-circle-fill text-danger me-2"></i>Basic reports & analytics
-						</li>
-						<!-- List group item END -->
-					</ul>
-					<!-- List Group END -->
-
-					<!-- Button -->
-					<a href="#" class="btn btn-light mt-3">Purchase now</a>          
-				</div>
-				<!-- Card END -->
-			</div>
-
-			<div class="col-md-6 col-lg-4 col-xl-3" data-aos="flip-right" data-aos-easing="linear" data-aos-duration="700">
-				<!-- Card START -->
-				<div class="card card-body border border-primary p-4 rounded-bottom-right-0">
-					<div class="d-flex align-items-center justify-content-between">
-						<!-- Info -->
-						<h6 class="mb-0">Regular plan</h6>
-						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary-soft text-primary">Enterprise</span>
-					</div>
-					<!-- Price -->
-					<div class="d-flex align-items-center my-3">
-						<h5 class="mb-0 plan-price" data-monthly-price="$1.99" data-annual-price="$7.99">$1.99</h5>            
-					</div>
-
-					<!-- List group START -->
-					<ul class="list-group list-group-borderless border-0">
-					<!-- List group item START -->
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry outlet
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry staff
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>Withdraw balance anytime
-						</li>
-						<li class="list-group-item px-0">
-							<i class="bi bi-x-circle-fill text-danger me-2"></i>Basic reports & analytics
-						</li>
-					<!-- List group END -->
-					</ul>
-					<!-- List group item END -->
-
-					<!-- Button -->
-					<a href="#" class="btn btn-warning mt-3">Purchase now</a>         
-				</div>
-				<!-- Card END -->
-			</div>
-
-			<div class="col-md-6 col-lg-4 col-xl-3" data-aos="flip-right" data-aos-easing="linear" data-aos-duration="1000">
-				<!-- Card START -->
-				<div class="card card-body p-4 rounded-bottom-right-0">          
-					<div class="d-flex align-items-center justify-content-between">
-						<!-- Info -->
-						<h6 class="mb-0">Advance plan</h6>
-						<!-- Badge -->
-						<span class="badge rounded-pill bg-primary-soft text-primary">Premium</span>
-					</div>
-					<!-- Price -->
-					<div class="d-flex align-items-center my-3">
-						<h5 class="mb-0 plan-price" data-monthly-price="$3.99" data-annual-price="$7.99">$7.99</h5>            
-					</div>
-				 
-					<!-- List Group START-->
-					<ul class="list-group list-group-borderless border-0">
-						<!-- List group item START -->
-						<li class="list-group-item px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry outlet
-						</li>
-						<li class="list-group-item border-0 px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>1 laundry staff
-						</li>
-						<li class="list-group-item border-0 px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>Withdraw balance anytime
-						</li>
-						<li class="list-group-item border-0 px-0">
-							<i class="bi bi-check-circle-fill text-success me-2"></i>Basic reports & analytics
-						</li>
-						<!-- List group item END -->
-					</ul>
-					<!-- List group END -->
-
-					<!-- Button -->
-					<a href="#" class="btn btn-light mt-3">Purchase now</a>          
-				</div>
-				<!-- Card END -->
+				<!-- Form END -->    
 			</div>
 			
 		</div><!-- Row END -->
