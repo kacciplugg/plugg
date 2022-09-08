@@ -87,40 +87,33 @@ Contact START -->
 				<!-- Title -->
 				<h2 class="mb-3">Get in touch</h2>
 				<!-- Form START -->
-				<form class="row g-3">
+				<form class="row g-3" action="contactForm.php" method="POST">
 					<div class="col-md-6">
 						<label for="inputName" class="form-label">Name</label>
-						<input type="text" class="form-control" id="inputName" placeholder="Please enter your full name">
+						<input type="text" class="form-control" name="fName" id="inputName" placeholder="Enter your name">
 					</div>
 					<div class="col-md-6">
 						<label for="inputEmail" class="form-label">Email </label>
-						<input type="email" class="form-control" id="inputEmail" placeholder="Please enter your email">
+						<input type="email" class="form-control" name="email" id="inputEmail" placeholder="Enter your email">
 					</div>
 
 					<div class="col-md-6">
-						<label for="inputPhonenumber" class="form-label">Phone number</label>
-						<input type="text" class="form-control" id="inputPhonenumber" placeholder="Please enter your phone number">
+						<label for="inputPhonenumber" class="form-label">Phone number (preferrably WhatsApp)</label>
+						<input type="text" class="form-control" name="phone" id="inputPhonenumber" placeholder="Enter your phone number">
 					</div>
 					<div class="col-md-6">
-						<label for="inputSubject" class="form-label">Project</label>
-						<input type="text" class="form-control" id="inputSubject" placeholder="Please enter the title of the project">
+						<label for="inputSubject" class="form-label">Subject</label>
+						<input type="text" class="form-control" name="subject" id="inputSubject" placeholder="Enter a subject">
 					</div>
 
 					<div class="col-12">
-						<label for="exampleFormControlTextarea2" class="form-label">Project Details</label>
-						<textarea class="form-control" id="exampleFormControlTextarea2" rows="3" placeholder="Tell us a little bit about the project"></textarea>
+						<label for="exampleFormControlTextarea2" class="form-label">Message</label>
+						<textarea class="form-control" name="message" id="exampleFormControlTextarea2" rows="3" placeholder="Enter your message"></textarea>
 					</div>          
 				 
 					<div class="col-12">
-						<!-- Check -->
-						<div class="form-check">
-							<input class="form-check-input" type="checkbox" id="check1">
-							<label class="form-check-label" for="check1">I agree to the terms and conditions</label>
-						</div>
-					</div>
-					<div class="col-12">
 						<!-- Button -->
-						<button type="submit" class="btn btn-warning mb-0">Send message</button>
+						<button type="submit" name="submit" class="btn btn-warning mb-0">Send message</button>
 					</div>
 				</form>
 				<!-- Form END -->    

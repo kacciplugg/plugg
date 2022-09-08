@@ -204,6 +204,12 @@
       }
 
 
+      @media only screen and (min-width:992px) {
+        .feat {
+          margin-top: -120px;
+        }
+      }
+
     </style>
 
 </head>
@@ -240,7 +246,7 @@ Header START -->
 					<li class="nav-item"><a class="nav-link" href="case-study.php">Portfolio</a></li>
 
 					<!-- Nav item 4 Pricing -->
-					<li class="nav-item"><a class="nav-link" href="pricing.php">Pricing</a></li>
+					<!-- <li class="nav-item"><a class="nav-link" href="pricing.php">Pricing</a></li> -->
 
           <!-- Nav item 5 Contact-->
 					<li class="nav-item"><a class="nav-link" href="contact-us.php">Contact</a></li>
@@ -1230,16 +1236,58 @@ Pricing plan START -->
 	<!-- Svg END -->
 
 	<div class="container">
-	
 		<div class="row mb-3">
 			<div class="col-lg-6">
 				<!-- Title -->
 				<h2 class="mb-3">Ready to work with us?</h2>
 				<!-- Content -->
-				<p>You couldn't have made it all this way if you weren't gonna work with us...right? Feel free to contact us if you still have more enquiries; otherwise, we may take your project request below</p>
+				<p>You couldn't have made it all this way if you weren't gonna work with us...right? Feel free to contact us if you still have more enquiries; otherwise, here are the peanuts we charge for our exquisite tech services</p>
 			</div>
 		</div><!-- Row END -->
+
+		<div class="row g-2 mb-4 justify-content-between align-items-center">
 			
+			<div class="col-lg-10">
+				<!-- Title -->
+				<!-- <h2 class="mb-3">Get in touch</h2> -->
+				<!-- Form START -->
+				<form class="row g-3" action="homeForm.php" method="POST">
+					<div class="col-md-6">
+						<label for="inputName" class="form-label">Name</label>
+						<input type="text" class="form-control" name="fName" id="inputName" placeholder="Enter your name">
+					</div>
+					<div class="col-md-6">
+						<label for="inputEmail" class="form-label">Email </label>
+						<input type="email" class="form-control" name="email" id="inputEmail" placeholder="Enter your email">
+					</div>
+
+					<div class="col-md-6">
+						<label for="inputPhonenumber" class="form-label">Phone number (preferrably WhatsApp)</label>
+						<input type="text" class="form-control" name="phone" id="inputPhonenumber" placeholder="Enter your phone number">
+					</div>
+					<div class="col-md-6">
+						<label for="inputSubject" class="form-label">Project type</label>
+            <select class="form-control" id="inputSubject" name="project">
+              <option value="">-- Select --</option>
+              <option value="Logo Design">Logo Design</option>
+              <option value="Website Design">Website Design</option>
+              <option value="Flyer Design">Flyer Design</option>
+              <option value="Branding/Visual Identity">Branding/Visual Identity</option>
+            </select>
+					</div>
+
+					<div class="col-12">
+						<label for="exampleFormControlTextarea2" class="form-label">Briefly tell us about your project</label>
+						<textarea class="form-control" name="message" id="exampleFormControlTextarea2" rows="3" placeholder="Enter your full message"></textarea>
+					</div>          
+				 
+					<div class="col-12">
+						<!-- Button -->
+						<button type="submit" name="submit" class="btn btn-warning mb-0">Send message</button>
+					</div>
+				</form>
+				<!-- Form END -->    
+			</div>			
 		</div><!-- Row END -->
 	</div>
 </section>
