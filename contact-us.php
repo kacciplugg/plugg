@@ -2,10 +2,58 @@
 <html lang="en">
 <head>
 	<title>Contact - Plugg Resources | Creative, rhythmic technology</title>
+
+	<!-- Meta Tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta name="msapplication-TileImage" content="assets/images/favicon.ico">
+ 
+	<meta property="og:site_name" content="Plugg Resources">
+	<meta property="og:title" content="Plugg Resources">
+	<meta property="og:description" content="An online digital design and development agency specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
+
+	<meta property="og:image" itemprop="image" content="assets/images/favicon.ico">
+
+	<meta property="og:type" content="website">
+	<meta property="og:image:type" content="image/png">
+
+	<meta property="og:image:width" content="300">
+	<meta property="og:image:height" content="300">
+
+	<meta property="og:url" content="https://pluggresources.com">
+
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="assets/images/favicon.ico">
+
+	<!-- Google Font -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 	
+	<!-- Plugins CSS -->
+	<link rel="stylesheet" type="text/css" href="assets/vendor/font-awesome/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap-icons/bootstrap-icons.css">
+	<link rel="stylesheet" type="text/css" href="assets/vendor/tiny-slider/tiny-slider.css">
+	<link rel="stylesheet" type="text/css" href="assets/vendor/glightbox/css/glightbox.min.css">
+
+	
+	<!-- Theme CSS -->
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+  <!-- Animate on Scroll (AOS) -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+  <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+
 <?php
   include('header.html');
 ?>
+
 <!-- =======================
 Header END -->
 
@@ -14,14 +62,15 @@ Header END -->
 
 <!-- =======================
 Hero banner START -->
-<section class="position-relative py-6 py-md-9" style="background-image: url(assets/images/bg/11.jpg); background-repeat: no-repeat; background-size:cover;background-position: center center;">
+<section class="position-relative py-6 py-md-9" style="background-image: url(assets/images/AdobeStock_132106972.jpeg); background-repeat: no-repeat; background-size:cover;background-position: center center;">
 	<!-- Overlay -->
 	<div class="bg-overlay opacity-7"></div>
 	<div class="container py-3 py-md-9">
 		<div class="row">
 			<div class="col-lg-6 mx-auto text-center z-index-9">
 				<!-- Title -->
-				 <h1 class="text-white mb-0">Contact us</h1>
+				 <h1 class="text-white mb-3">How can we help?</h1>
+				 <p class="fs-6 fw-light text-white mb-4">Send us a message with a little bit of your project idea and we'll contact you immediately via email to get started!</p>
 			</div>
 		</div><!-- Row END -->
 	</div>
@@ -70,12 +119,12 @@ Contact START -->
 				<!-- Form END -->    
 			</div>
 
-			<div class="col-lg-5 ps-lg-3">
+			<!-- <div class="col-lg-5 ps-lg-3">
 				<div class="row g-4">
 					<div class="col-lg-10">
-						<div class="shadow p-4 rounded-3 mb-4">
+						<div class="shadow p-4 rounded-3 mb-4"> -->
 							<!-- Title -->
-							<h6>London office</h6>
+							<!-- <h6>London office</h6>
 							
 							<div class="vstack gap-3">
 								<div class="fw-bold"><i class="bi bi-geo-alt text-warning me-2 fa-fw"></i>21/7A, Strata, Walworth Road, London, 9403</div>
@@ -92,11 +141,11 @@ Contact START -->
 									<a href="#" class="text-body"><i class="bi bi-telephone-plus me-2 text-warning fa-fw"></i>+1(062) 109-9222</a>  
 								</div>
 							</div>          
-						</div>
+						</div> -->
 		
-						<div class="shadow p-4 rounded-3">
+						<!-- <div class="shadow p-4 rounded-3"> -->
 							<!-- Title -->
-							<h6>US office</h6>
+							<!-- <h6>US office</h6>
 							
 							<div class="vstack gap-3">
 								<div class="fw-bold"><i class="bi bi-geo-alt text-warning me-2 fa-fw"></i>21/7A, Strata, Walworth Road, US, 9403</div>
@@ -114,33 +163,33 @@ Contact START -->
 								</div>
 							</div>          
 						</div>
-					</div>
+					</div> -->
 
 					<div class="col-12 col-lg-2">
 						<!-- Social icon -->
 						<ul class="nav">
-							<li class="nav-item">
-								<a class="nav-link icon-md rounded-circle p-0 fs-6 me-2 me-lg-0 mb-lg-3 bg-facebook" href="https://www.facebook.com/pluggresources">
+							<li class="nav-item me-3 ms-3">
+								<a class="nav-link icon-md rounded-circle p-0 fs-6 me-2 me-lg-0 mb-lg-3 bg-facebook" href="https://www.facebook.com/pluggresources" rel="nofollow" target="_blank">
 									<i class="fab fa-facebook-f fa-fw"></i></a>
 							</li>
 
-							<li class="nav-item"> 
-								<a class="nav-link icon-md rounded-circle p-0 fs-6 me-2 me-lg-0 mb-lg-3 bg-twitter" href="https://twitter.com/pluggresources">
+							<li class="nav-item me-3 ms-3"> 
+								<a class="nav-link icon-md rounded-circle p-0 fs-6 me-2 me-lg-0 mb-lg-3 bg-twitter" href="https://twitter.com/pluggresources" rel="nofollow" target="_blank">
 									<i class="fab fa-twitter fa-fw"></i></a>
 							</li>
 
-							<li class="nav-item"> 
-								<a class="nav-link icon-md rounded-circle p-0 fs-6 me-2 me-lg-0 mb-lg-3 bg-whatsapp" href="https://wa.me/2349016351227">
+							<li class="nav-item me-3 ms-3"> 
+								<a class="nav-link icon-md rounded-circle p-0 fs-6 me-2 me-lg-0 mb-lg-3 bg-whatsapp" href="https://wa.me/2349016351227" rel="nofollow" target="_blank">
 									<i class="fab fa-whatsapp fa-fw"></i></a>
 							</li>
 
-							<li class="nav-item">
-								 <a class="nav-link icon-md rounded-circle p-0 fs-6 me-2 me-lg-0 mb-lg-3 bg-linkedin" href="https://www.linkedin.com/mwlite/company/pluggresources">
+							<li class="nav-item me-3 ms-3">
+								 <a class="nav-link icon-md rounded-circle p-0 fs-6 me-2 me-lg-0 mb-lg-3 bg-linkedin" href="https://www.linkedin.com/company/pluggresources" rel="nofollow" target="_blank">
 									 <i class="fab fa-linkedin-in fa-fw"></i></a>
 							</li>
 							
-							<li class="nav-item"> 
-								<a class="nav-link icon-md rounded-circle p-0 fs-6 me-2 me-lg-0 mb-lg-3 bg-instagram-gradient" href="https://www.instagram.com/pluggresources">
+							<li class="nav-item me-3 ms-3"> 
+								<a class="nav-link icon-md rounded-circle p-0 fs-6 me-2 me-lg-0 mb-lg-3 bg-instagram-gradient" href="https://www.instagram.com/pluggresources" rel="nofollow" target="_blank">
 									<i class="fab fa-instagram fa-fw"></i></a>
 							</li> 
 						</ul>
