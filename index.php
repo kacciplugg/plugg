@@ -243,7 +243,7 @@ Header START -->
 					<li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 
 					<!-- Nav item 3 Portfolio -->
-					<li class="nav-item"><a class="nav-link" href="case-study.php">Portfolio</a></li>
+					<li class="nav-item"><a class="nav-link" href="portfolio.php">Portfolio</a></li>
 
 					<!-- Nav item 4 Pricing -->
 					<!-- <li class="nav-item"><a class="nav-link" href="pricing.php">Pricing</a></li> -->
@@ -257,7 +257,7 @@ Header START -->
 			<!-- Nav right START -->
 			<div class="blog-btn-div">
 				<!-- Nav Button -->
-				<a href="#" class="blog-btn btn btn-dark mb-0 mx-2">Visit our Blog</a>
+				<a href="https://blog.pluggresources.com" class="blog-btn btn btn-dark mb-0 mx-2">Visit our Blog</a>
 			</div>
 			<!-- Nav right END -->
 
@@ -321,7 +321,7 @@ Main banner START -->
 
             <!-- Button -->
             <div class="my-4">
-              <a class="btn btn-warning mb-0">Learn More</a>
+              <a href="about.php" class="btn btn-warning mb-0">Learn More</a>
               <!-- <a class="btn btn-white btn-white-shadow btn-round btn-lg ms-3 mb-0" data-glightbox="" data-gallery="hero"  href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i></a> -->
             </div>
 
@@ -434,7 +434,7 @@ Main banner START -->
 
             <!-- Button -->
             <div class="my-4">
-              <a class="btn btn-warning mb-0">Learn More</a>
+              <a href="about.php" class="btn btn-warning mb-0">Learn More</a>
               <!-- <a class="btn btn-white btn-white-shadow btn-round btn-lg ms-3 mb-0" data-glightbox="" data-gallery="hero"  href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i></a> -->
             </div>
 
@@ -584,7 +584,7 @@ Service section START -->
 					<!-- Content -->
 					<p class="card-text">Our skilled web designers and developers are constantly eager to deliver aesthetic, functional and responsive websites, whatever the kind, for your brand, business, school or company.</p>
 					<!-- Button link -->
-					<a href="#" class="card-link text-primary fw-bold">Learn more</a>
+					<a href="about.php" class="card-link text-primary fw-bold">Learn more</a>
 				</div> 
 				<!-- Card END -->
 			</div>
@@ -601,7 +601,7 @@ Service section START -->
 					<!-- Content -->
 					<p class="card-text">Need an online platform for specialized tasks and services? Not to worry! Send us a message to get personalized, standard web applications built for your company or service.</p>
 					<!-- Button link -->
-					<a href="#" class="card-link text-primary fw-bold">Learn more</a>            
+					<a href="about.php" class="card-link text-primary fw-bold">Learn more</a>            
 				</div>				
 				<!-- Card END -->
 			</div>
@@ -618,7 +618,7 @@ Service section START -->
 						<!-- Content -->
 						<p class="card-text">The success of every product, brand or company is largely determined by its visual branding. We offer eye-catching brand logos and designs of any sort for the growth of your business!</p>
 						<!-- Button link -->
-						<a href="#" class="card-link text-primary fw-bold">Learn more</a>            
+						<a href="about.php" class="card-link text-primary fw-bold">Learn more</a>            
 					</div>
 				<!-- Card END -->
 			</div>
@@ -635,7 +635,7 @@ Service section START -->
 					<!-- Content -->
 					<p class="card-text">Modern interfaces require just the right amount of research mixed with design to be deployed rightly to the satisfaction of clients and end-users. We are here to help you achieve this and many more!</p>
 					<!-- Button link -->
-					<a href="#" class="card-link text-primary fw-bold">Learn more</a>
+					<a href="about.php" class="card-link text-primary fw-bold">Learn more</a>
 				</div> 
 				<!-- Card END -->
 			</div>
@@ -814,7 +814,7 @@ About section  END -->
 				<!-- Counter END -->	
 
 				<!-- Button -->
-				<a class="btn btn-warning mt-4" href="case-study.php">Learn More</a>
+				<a class="btn btn-warning mt-4" href="portfolio.php">Learn More</a>
 			</div>
 
 		</div><!-- Row END -->
@@ -1056,7 +1056,7 @@ Action box START -->
 									<!-- Content -->
 									<p class="text-white">At Plugg Resources, we let our creativity speak for us. With professionally qualified designers and developers to attend to your requests, be sure to expect the best visual appeal has to offer.</p>
 									<!-- Button -->
-									<a class="btn btn-primary mb-0" href="#">Get Started</a>
+									<a class="btn btn-primary mb-0" href="index.php #get-started">Get Started</a>
 								</div>
 							</div><!-- Row END -->
 						</div>
@@ -1199,7 +1199,7 @@ Step END -->
 
 <!-- =======================
 Pricing plan START -->
-<section class="bg-light position-relative price-wrap py-5">
+<section class="bg-light position-relative price-wrap py-5" id="get-started">
 
 	<!-- Svg START -->
 	<figure class="opacity-25 mb-0 position-absolute top-0 end-0 d-none d-lg-block">  
@@ -1241,7 +1241,7 @@ Pricing plan START -->
 				<!-- Title -->
 				<h2 class="mb-3">Ready to work with us?</h2>
 				<!-- Content -->
-				<p>You couldn't have made it all this way if you weren't gonna work with us...right? Feel free to contact us if you still have more enquiries; otherwise, here are the peanuts we charge for our exquisite tech services</p>
+				<p>You couldn't have made it all this way if you weren't gonna work with us...right? Feel free to contact us if you still have more enquiries; otherwise, we may take your project request below</p>
 			</div>
 		</div><!-- Row END -->
 
@@ -1254,7 +1254,7 @@ Pricing plan START -->
 				<form class="row g-3" action="homeForm.php" method="POST">
 					<div class="col-md-6">
 						<label for="inputName" class="form-label">Name</label>
-						<input type="text" class="form-control" name="fName" id="inputName" placeholder="Enter your name">
+						<input type="text" class="form-control" name="fName" id="inputName" placeholder="Enter your full name">
 					</div>
 					<div class="col-md-6">
 						<label for="inputEmail" class="form-label">Email </label>
@@ -1269,16 +1269,17 @@ Pricing plan START -->
 						<label for="inputSubject" class="form-label">Project type</label>
             <select class="form-control" id="inputSubject" name="project">
               <option value="">-- Select --</option>
-              <option value="Logo Design">Logo Design</option>
-              <option value="Website Design">Website Design</option>
-              <option value="Flyer Design">Flyer Design</option>
-              <option value="Branding/Visual Identity">Branding/Visual Identity</option>
+              <option value="Logo Design">Logo Design/Branding/Visual Identity</option>
+              <option value="Website Design">Website Development</option>
+			  <option value="Website Design">Web Application Development</option>
+              <option value="Flyer Design">Other Graphic Design</option>
+              <option value="Branding/Visual Identity">UI/UX Design</option>
             </select>
 					</div>
 
 					<div class="col-12">
-						<label for="exampleFormControlTextarea2" class="form-label">Briefly tell us about your project</label>
-						<textarea class="form-control" name="message" id="exampleFormControlTextarea2" rows="3" placeholder="Enter your full message"></textarea>
+						<label for="exampleFormControlTextarea2" class="form-label">Project Details</label>
+						<textarea class="form-control" name="message" id="exampleFormControlTextarea2" rows="6" placeholder="Briefly tell us about the project"></textarea>
 					</div>          
 				 
 					<div class="col-12">

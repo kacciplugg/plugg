@@ -78,7 +78,7 @@ Hero banner START -->
 Hero banner END -->
 
 <!-- =======================
-Case-study START-->
+portfolio START-->
 <section>
 	<div class="container">
 		<div class="row mb-3">
@@ -117,7 +117,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/01.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/01.jpg" class="card-image-scale" alt="card image">
 			
 					     
 					</div>
@@ -140,7 +140,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/02.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/02.jpg" class="card-image-scale" alt="card image">
 			
 					</div>
 					<div class="card-body p-3">
@@ -162,7 +162,7 @@ Case-study START-->
 				<div class="card rounded-0 ">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/03.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/03.jpg" class="card-image-scale" alt="card image">
 			
 					</div>
 					<div class="card-body p-3">
@@ -184,7 +184,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/05.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/05.jpg" class="card-image-scale" alt="card image">
 			      
 					</div>
 					<div class="card-body p-3">
@@ -206,7 +206,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/06.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/06.jpg" class="card-image-scale" alt="card image">
 			       
 					</div>
 					<div class="card-body p-3">
@@ -228,7 +228,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/04.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/04.jpg" class="card-image-scale" alt="card image">
 			      
 					</div>
 					<div class="card-body p-3">
@@ -250,7 +250,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/07.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/07.jpg" class="card-image-scale" alt="card image">
 			     
 					</div>
 					<div class="card-body p-3">
@@ -272,7 +272,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/08.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/08.jpg" class="card-image-scale" alt="card image">
 			     
 					</div>
 					<div class="card-body p-3">
@@ -294,7 +294,7 @@ Case-study START-->
 				<div class="card card-hover-overlay rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/09.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/09.jpg" class="card-image-scale" alt="card image">
 			       
 					</div>
 					<div class="card-body p-3">
@@ -316,7 +316,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/10.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/10.jpg" class="card-image-scale" alt="card image">
 			     
 					</div>
 					<div class="card-body p-3">
@@ -338,7 +338,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/11.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/11.jpg" class="card-image-scale" alt="card image">
 			        
 					</div>
 					<div class="card-body p-3">
@@ -360,7 +360,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/12.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/12.jpg" class="card-image-scale" alt="card image">
 			   
 					</div>
 					<div class="card-body p-3">
@@ -382,7 +382,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/13.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/13.jpg" class="card-image-scale" alt="card image">
 			       
 					</div>
 					<div class="card-body p-3">
@@ -404,7 +404,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/14.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/14.jpg" class="card-image-scale" alt="card image">
 			       
 					</div>
 					<div class="card-body p-3">
@@ -426,7 +426,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/15.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/15.jpg" class="card-image-scale" alt="card image">
 			       
 					</div>
 					<div class="card-body p-3">
@@ -448,7 +448,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/16.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/16.jpg" class="card-image-scale" alt="card image">
 			       
 					</div>
 					<div class="card-body p-3">
@@ -470,7 +470,7 @@ Case-study START-->
 				<div class="card rounded-0">
 					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
 						<!-- Card Image -->
-						<img src="assets/images/case-study/17.jpg" class="card-image-scale" alt="card image">
+						<img src="assets/images/portfolio/17.jpg" class="card-image-scale" alt="card image">
 			       
 					</div>
 					<div class="card-body p-3">
@@ -522,7 +522,7 @@ Case-study START-->
 	</div>
 </section>
 <!-- =======================
-Case-study END -->
+portfolio END -->
 
 <!-- =======================
 Contact START -->

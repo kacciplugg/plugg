@@ -345,7 +345,7 @@ Team START -->
 							<!-- Title -->
 							<h6 class="text-white">Chukwudi Ike-Nwako</h6>
 							<!-- Content -->
-							<p class="text-white mb-0">PHP, NodeJS & Python developer</p>
+							<p class="text-white mb-0">Full-stack, C & Python Developer</p>
 						</div>
 					</div>
 					<!-- Card Overlay END -->						
