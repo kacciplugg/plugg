@@ -62,16 +62,20 @@ Header END -->
 	
 <!-- =======================
 Hero banner START -->
-<section class="bg-light py-5">
-	<div class="container">
+<section class="position-relative py-lg-8" style="background-image: url(assets/images/AdobeStock_290569461.jpeg); background-repeat: no-repeat; background-size: cover;">
+	<!-- Overlay -->
+	<div class="bg-overlay opacity-7"></div>
+	<div class="container my-md-5 py-5">
 		<div class="row">
-			<div class="col-lg-4">
+
+			<div class="col-lg-6 mx-auto text-center z-index-9">
 				<!-- Title -->
-				<h1 class="mb-3">Portfolio</h1>
+				<h1 class="text-white mb-3">A vision, fueled by the impact of digital creativity on businesses</h1>
 				<!-- Content -->
-				<p class="mb-0">Here are some of our previous projects</p>
-			</div>       
-		</div>    
+				<p class="text-white fs-6 fw-light mb-0">You've probably seen the word "creativity" used one too many times by us but we really can't help it; that's our key motivation. Below are the brands and businesses we've managed to sprinkle a little bit of our magic on</p>
+			</div>
+		</div><!-- Row END -->
+
 	</div>
 </section>
 <!-- =======================
@@ -564,6 +568,7 @@ JS libraries, plugins and custom scripts -->
 
 <!-- Vendors -->
 <script src="assets/vendor/tiny-slider/tiny-slider.js"></script>
+<script src="assets/vendor/aos/aos.js"></script>
 <script src="assets/vendor/isotope/isotope.pkgd.min.js"></script>
 <script src="assets/vendor/imagesLoaded/imagesloaded.pkgd.min.js"></script>
 
