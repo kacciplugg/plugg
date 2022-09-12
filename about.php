@@ -139,7 +139,7 @@ About START -->
 				<!-- Progress END -->
 				
 				<!-- Button -->
-				<a class="btn btn-warning mb-0" href="contact-us.php">Contact Us</a>
+				<a class="btn btn-warning mb-0" href="contact-us">Contact Us</a>
 			</div>
 
 			<div data-aos="zoom-out-down" class="col-lg-5 position-relative">
@@ -157,7 +157,7 @@ About START -->
 				<!-- Message box END -->
 
 				<!-- Image -->
-				<div class="rounded-4 rounded-bottom-right-0 goal-cont">
+				<div class="rounded-4 rounded-bottom-right-0 goal-cont" style="width:100%;">
 				<img src="assets/images/AdobeStock_119867158.jpeg" class="rounded-4 rounded-bottom-right-4 goal-cont-image" alt="">
 				</div>
 			</div>
@@ -284,7 +284,7 @@ Team START -->
 							<!-- Title -->
 							<h6 class="text-white">Onyedikachi Ngwu</h6>
 							<!-- Content -->
-							<p class="text-white mb-0">Front-end and PHP web developer, UI/UX and graphics designer</p>
+							<p class="text-white mb-0">Front-end and PHP web developer, UI/UX and graphic designer</p>
 						</div>
 					</div>
 					<!-- Card Overlay END -->						
@@ -345,7 +345,7 @@ Team START -->
 							<!-- Title -->
 							<h6 class="text-white">Chukwudi Ike-Nwako</h6>
 							<!-- Content -->
-							<p class="text-white mb-0">Full-stack, C & Python Developer</p>
+							<p class="text-white mb-0">Full-stack, C# & Python Developer</p>
 						</div>
 					</div>
 					<!-- Card Overlay END -->						
@@ -373,7 +373,7 @@ CTA START-->
 				 
 				<div class="hstack flex-wrap gap-4 justify-content-center">
 					<!-- Button -->
-					<a href="contact-us.html" class="btn btn-warning mb-0"><i class="bi bi-telephone-fill me-2"></i>Contact us</a>
+					<a href="contact-us" class="btn btn-warning mb-0"><i class="bi bi-telephone-fill me-2"></i>Contact us</a>
 				
         <!-- CTA -->
 				<!-- Icon -->
