@@ -43,7 +43,8 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
   <!-- Animate on Scroll (AOS) -->
-  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  <!-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
   <link
       rel="stylesheet"
@@ -69,9 +70,9 @@ Main banner START -->
 
 			<div class="col-lg-6 mx-auto text-center z-index-9">
 				<!-- Title -->
-				<h1 data-aos="flip-right" class="text-white mb-3">Building businesses, one design process at a time.</h1>
+				<h1 class="wow bounceInDown text-white mb-3">Building businesses, one design process at a time.</h1>
 				<!-- Content -->
-				<p data-aos="zoom-in" class="text-white fs-6 fw-light mb-0">We relish opportunities in creating unique experiences for our customers, be them businesses, brands or companies. Let us take you through what defines us; what defines <b style="color: #059d6e;">Plugg Resources.</b></p>
+				<p class="wow flipInX text-white fs-6 fw-light mb-0">We relish opportunities in creating unique experiences for our customers, be them businesses, brands or companies. Let us take you through what defines us; what defines <b style="color: #059d6e;">Plugg Resources.</b></p>
 			</div>
 		</div><!-- Row END -->
 
@@ -82,10 +83,10 @@ Main banner END -->
 
 <!-- =======================
 About START -->
-<section>
+<section class="wow bounceInDown">
 	<div class="container">
 		<div class="row justify-content-between align-items-center g-4">
-			<div data-aos="zoom-out-down" class="col-lg-6">
+			<div class="col-lg-6">
 				<!-- Title -->
 				<h2 class="mb-3">Who are we and what exactly do we do?</h2>
 				<!-- Content -->
@@ -101,7 +102,7 @@ About START -->
 						<span class="progress-percent h6 mb-0">90%</span>
 					</div>
 					<div class="progress progress-sm">
-						<div class="progress-bar progress-bar-animated bg-primary bg-opacity-50 aos" data-aos="slide-right" data-aos-delay="200" data-aos-duration="1000" data-aos-easing="ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+						<div class="progress-bar progress-bar-animated bg-primary bg-opacity-50 aos" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:90%">
 						</div>
 					</div>
 				 </div>
@@ -116,7 +117,7 @@ About START -->
 						<span class="progress-percent h6 mb-0">99%</span>
 					</div>
 					<div class="progress progress-sm  justify-content-between">
-						<div class="progress-bar progress-bar-animated bg-primary bg-opacity-50 aos" data-aos="slide-right" data-aos-delay="200" data-aos-duration="1000" data-aos-easing="ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:99%">
+						<div class="progress-bar progress-bar-animated bg-primary bg-opacity-50 aos" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:99%">
 						</div>
 					</div>
 				 </div>
@@ -131,7 +132,7 @@ About START -->
 						<span class="progress-percent h6 mb-0">70%</span>
 					</div>
 					<div class="progress progress-sm">
-						<div class="progress-bar progress-bar-animated bg-primary bg-opacity-50 aos" data-aos="slide-right" data-aos-delay="200" data-aos-duration="1000" data-aos-easing="ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+						<div class="progress-bar progress-bar-animated bg-primary bg-opacity-50 aos" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:70%">
 						</div>
 					</div>
 				</div>
@@ -142,7 +143,7 @@ About START -->
 				<a class="btn btn-warning mb-0" href="contact-us">Contact Us</a>
 			</div>
 
-			<div data-aos="zoom-out-down" class="col-lg-5 position-relative">
+			<div class="col-lg-5 position-relative">
 				<!-- Message box START -->
 				<div class="col-4 bg-white shadow p-3 rounded-3 position-absolute top-100 start-0 translate-middle mt-n5 ms-3 d-none d-lg-block">
 					<!-- Icon -->
@@ -214,25 +215,95 @@ Counter START -->
 </section>
 <!-- =======================
 Counter END -->
+<section class="bg-light py-4">
+	<div class="container">
+		<div class="row align-items-center">
+
+			<div class="col-lg-6">
+				<div class="row g-4">
+					<div class="col-sm-5 offset-sm-1 align-self-end position-relative">
+						<!-- Image -->
+						<img src="assets/images/about/09.jpg" class="rounded-4 rounded-bottom-right-0" alt="">
+						<div class="position-absolute top-50 start-50 translate-middle z-index-9">
+							<!-- Video button -->
+							<div class="position-relative ms-0 ms-sm-4">
+								<a class="btn btn-white btn-white-shadow btn-round btn-lg mb-0 me-2" data-glightbox
+									data-gallery="office-tour" href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i>
+								</a>
+							</div>
+						</div>            
+					</div>
+
+					<div class="col-sm-6 position-relative">
+						<!-- Image -->
+						<img src="assets/images/about/10.jpg" class="rounded-4 rounded-bottom-right-0" alt="">          
+					</div>
+					<div class="col-sm-5">
+						<!-- Image -->
+						<img src="assets/images/about/11.jpg" class="rounded-4 rounded-bottom-right-0" alt="">
+					</div>
+					<div class="col-sm-7">
+						<!-- Image -->
+						<img src="assets/images/about/12.jpg" class="rounded-4 rounded-bottom-right-0" alt="">
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-6 ps-lg-5 mt-3 mt-lg-0">
+				<!-- Title -->
+				<h3 class="mb-3">Your small business' digital design solution</h3>
+				<!-- Content -->
+				<p class="mb-0">Speedily say has suitable disposal add boy. On forth doubt miles of child. Exercise joy man children rejoiced. Yet uncommonly his ten who diminution astonished. Demesne new manners savings staying had.</p>
+				
+        <div class="row mt-2 mb-4 g-4">
+					
+          <div class="col-sm-6">
+						<!-- Card START -->
+						<div class="card card-body p-0 bg-transparent">
+							<!-- Icon -->
+							<i class="bi bi-people-fill fs-4 text-primary"></i>
+							<h6>Build Real Users</h6>
+							<p class="mb-0">It drew a hill from me. Valley by oh twenty direct me so. Departure defective arranging.</p>
+						</div>
+						<!-- Card END -->
+					</div>
+				
+					<div class="col-sm-6">
+						<!-- Card START -->
+						<div class="card card-body p-0 bg-transparent">
+							<!-- Icon -->
+							<i class="bi bi-tools fs-4 text-primary"></i>
+							<h6>Process Easily</h6>
+							<p class="mb-0">Comfort reached gay perhaps chamber his six detract besides Moonlight newspaper Moonlight newspaper.</p>
+						</div>
+						<!-- Card START -->
+					</div>        
+				</div><!-- Row END -->
+				<!-- Button -->        
+				<a href="#" class="btn btn-warning mb-0">Get a quote</a>
+			</div>     
+		</div><!-- Row END -->
+	</div>
+</section>
 
 <!-- =======================
 Team START -->
-<section data-aos="zoom-out-down">
+<section>
 	<div class="container">
 
 		<div class="row mb-4">
 			<div class="col-lg-7 mx-auto text-center">
 				<!-- Title -->
-				<h2 data-aos="zoom-in" class="mb-3">Meet our talented team!</h2>
+				<h2 class="mb-3">Meet our talented team!</h2>
 				<!-- Content -->
-				<p data-aos="zoom-in" class="mb-0">The success and commendations we've received from our clients are as a result of these amazing designers and developers buzzing for a chance to exhibit their ever-flowing creativity!</p>
+				<p class="mb-0">The success and commendations we've received from our clients are as a result of these amazing designers and developers buzzing for a chance to exhibit their ever-flowing creativity!</p>
 			</div>
 		 </div><!-- Row END --> 
 
 		<div class="row g-4">
 			<div class="col-sm-6 col-lg-3 ">
 				<!-- Card START -->
-				<div data-aos="fade-up" class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
+				<div class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
 					<!-- Card Image -->            
 					<img class="image-fill" src="assets/images/team/Alakembi Peter.jpeg" alt="card image">
 					
@@ -263,7 +334,7 @@ Team START -->
 
 			<div class="col-sm-6 col-lg-3">
 				<!-- Card START -->
-				<div data-aos="fade-up" class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
+				<div class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
 					<!-- Card Image -->            
 					<img class="image-fill" src="assets/images/team/Ngwu Onyedikachi.jpg" alt="card image">
 					
@@ -294,7 +365,7 @@ Team START -->
 
 			<div class="col-sm-6 col-lg-3">
 				<!-- Card START -->
-				<div data-aos="fade-up" class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
+				<div  class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
 					<!-- Card Image -->            
 					<img class="image-fill" src="assets/images/team/Okaliwe David.jpg" alt="card image">
 					
@@ -325,7 +396,7 @@ Team START -->
 
 			<div class="col-sm-6 col-lg-3">
 				<!-- Card START -->
-				<div data-aos="fade-up" class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
+				<div  class="card shadow-lg rounded-4 rounded-bottom-right-0 card-hover-overlay overflow-hidden new-card-height">
 					<!-- Card Image -->            
 					<img class="image-fill" src="assets/images/team/Ike-Nwako Chukwudi.jpg" alt="card image">
 					
@@ -362,7 +433,7 @@ Team END -->
 
 <!-- =======================
 CTA START-->
-<section data-aos="zoom-out-down" class="bg-light py-5">
+<section  class="bg-light py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-7 mx-auto text-center justify-content-between">
@@ -415,7 +486,8 @@ JS libraries, plugins and custom scripts -->
 
 <!-- Vendors -->
 <script src="assets/vendor/tiny-slider/tiny-slider.js"></script>
-<script src="assets/vendor/aos/aos.js"></script>
+<!-- <script src="assets/vendor/aos/aos.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="assets/vendor/purecounterjs/dist/purecounter_vanilla.js"></script>
 <script src="assets/vendor/isotope/isotope.pkgd.min.js"></script>
 
