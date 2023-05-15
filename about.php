@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>About - Plugg Resources | Creative, rhythmic technology</title>
+	<title>About - Digital Design and Development Agency | Plugg Resources</title>
 
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
@@ -9,8 +9,8 @@
 
   <meta name="msapplication-TileImage" content="assets/images/favicon.ico">
  
-	<meta property="og:site_name" content="Plugg Resources">
-	<meta property="og:title" content="Plugg Resources">
+	<meta property="og:site_name" content="Digital Design and Development Agency | Plugg Resources">
+	<meta property="og:title" content="Digital Design and Development Agency | Plugg Resources">
 	<meta property="og:description" content="An online digital design and development agency specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
 
 	<meta property="og:image" itemprop="image" content="assets/images/favicon.ico">
@@ -223,28 +223,20 @@ Counter END -->
 				<div class="row g-4">
 					<div class="col-sm-5 offset-sm-1 align-self-end position-relative">
 						<!-- Image -->
-						<img src="assets/images/about/09.jpg" class="rounded-4 rounded-bottom-right-0" alt="">
-						<div class="position-absolute top-50 start-50 translate-middle z-index-9">
-							<!-- Video button -->
-							<div class="position-relative ms-0 ms-sm-4">
-								<a class="btn btn-white btn-white-shadow btn-round btn-lg mb-0 me-2" data-glightbox
-									data-gallery="office-tour" href="https://www.youtube.com/embed/tXHviS-4ygo"><i class="fas fa-play"></i>
-								</a>
-							</div>
-						</div>            
+						<img src="assets/images/about/15.jpg" class="rounded-4 rounded-bottom-right-0" alt="">           
 					</div>
 
 					<div class="col-sm-6 position-relative">
 						<!-- Image -->
-						<img src="assets/images/about/10.jpg" class="rounded-4 rounded-bottom-right-0" alt="">          
+						<img src="assets/images/about/16.jpg" class="rounded-4 rounded-bottom-right-0" alt="">          
 					</div>
 					<div class="col-sm-5">
 						<!-- Image -->
-						<img src="assets/images/about/11.jpg" class="rounded-4 rounded-bottom-right-0" alt="">
+						<img src="assets/images/about/17.jpg" class="rounded-4 rounded-bottom-right-0" alt="">
 					</div>
 					<div class="col-sm-7">
 						<!-- Image -->
-						<img src="assets/images/about/12.jpg" class="rounded-4 rounded-bottom-right-0" alt="">
+						<img src="assets/images/about/18.jpg" class="rounded-4 rounded-bottom-right-0" alt="">
 					</div>
 				</div>
 			</div>
@@ -253,7 +245,7 @@ Counter END -->
 				<!-- Title -->
 				<h3 class="mb-3">Your small business' digital design solution</h3>
 				<!-- Content -->
-				<p class="mb-0">Speedily say has suitable disposal add boy. On forth doubt miles of child. Exercise joy man children rejoiced. Yet uncommonly his ten who diminution astonished. Demesne new manners savings staying had.</p>
+				<p class="mb-0">Using the power of digital design and development, we have mastered the art of transforming businesses by injecting creativity for sustainable growth.</p>
 				
         <div class="row mt-2 mb-4 g-4">
 					
@@ -262,8 +254,8 @@ Counter END -->
 						<div class="card card-body p-0 bg-transparent">
 							<!-- Icon -->
 							<i class="bi bi-people-fill fs-4 text-primary"></i>
-							<h6>Build Real Users</h6>
-							<p class="mb-0">It drew a hill from me. Valley by oh twenty direct me so. Departure defective arranging.</p>
+							<h6>Generate solid leads</h6>
+							<p class="mb-0">Perhaps the quickest way to gain customers for your business; get digital solutions made specifically for you.</p>
 						</div>
 						<!-- Card END -->
 					</div>
@@ -273,14 +265,14 @@ Counter END -->
 						<div class="card card-body p-0 bg-transparent">
 							<!-- Icon -->
 							<i class="bi bi-tools fs-4 text-primary"></i>
-							<h6>Process Easily</h6>
-							<p class="mb-0">Comfort reached gay perhaps chamber his six detract besides Moonlight newspaper Moonlight newspaper.</p>
+							<h6>Create trust</h6>
+							<p class="mb-0">Branding elements are the most effective form of trust building - you won't regret it for your business, whether small or large.</p>
 						</div>
 						<!-- Card START -->
 					</div>        
 				</div><!-- Row END -->
 				<!-- Button -->        
-				<a href="#" class="btn btn-warning mb-0">Get a quote</a>
+				<a href="#" class="btn btn-warning mb-0">Contact Us</a>
 			</div>     
 		</div><!-- Row END -->
 	</div>
@@ -315,6 +307,7 @@ Team START -->
 						<a href="https://wa.me/2348162760354" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
 						<a href="https://linkedin.com/in/peter-alakembi" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-linkedin"></i></a>
 						<a href="https://twitter.com/peteralaks" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-twitter"></i></a>
+						<a href="https://behance.net/peteralaks" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-behance"></i></a>
 					</div>
 						
 						<!-- Overlay Content -->
@@ -377,6 +370,7 @@ Team START -->
 						<a href="https://wa.me/2349014452743" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-whatsapp me-2"></i></a>
 						<a href="https://www.linkedin.com/in/david-okaliwe-229666234" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-linkedin"></i></a>
 						<a href="https://twitter.com/DavidOkaliwe" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-twitter"></i></a>
+						<a href="https://behance.net/okaliwedavid" rel="nofollow" target="_blank" class="text-primary-hover"><i class="bi bi-behance"></i></a>
 					</div>
 					
 						<!-- Overlay Content -->

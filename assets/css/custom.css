@@ -1,0 +1,48 @@
+.main-seco {
+    padding-top: 10rem;
+	padding-bottom: 5rem;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/hero56779djfhf62822hejhjbhss989d.webp') center center no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+  }
+
+  @media (min-width: 768px) {
+
+	/* main-seco */
+	.main-seco {
+		padding-top: 11rem;
+		padding-bottom: 8rem;
+	}
+
+	.main-seco .p-large {
+		width: 35rem;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	/* end of main-seco */
+}
+
+@media (min-width: 992px) {
+    
+	/* main-seco */
+	.main-seco {
+		padding-top: 16rem;
+		padding-bottom: 8rem;
+	}
+	/* end of main-seco */
+}
+
+@media (min-width: 1200px) {
+    /* main-seco */
+	.main-seco {
+		padding-top: 21rem;
+		padding-bottom: 10rem;
+	}
+
+	.main-seco .h1-large {
+		font-size: 4rem;
+		line-height: 4.25rem;
+	}
+	/* end of main-seco */
+}

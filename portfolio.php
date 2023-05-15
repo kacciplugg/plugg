@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Portfolio - Plugg Resources | Creative, rhythmic technology</title>
+	<title>Portfolio - Digital Design and Development Agency | Plugg Resources</title>
 
 <!-- Meta Tags -->
 <meta charset="utf-8">
@@ -9,8 +9,8 @@
 
   <meta name="msapplication-TileImage" content="assets/images/favicon.ico">
  
-	<meta property="og:site_name" content="Plugg Resources">
-	<meta property="og:title" content="Plugg Resources">
+	<meta property="og:site_name" content="Digital Design and Development Agency | Plugg Resources">
+	<meta property="og:title" content="Digital Design and Development Agency | Plugg Resources">
 	<meta property="og:description" content="An online digital design and development agency specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
 
 	<meta property="og:image" itemprop="image" content="assets/images/favicon.ico">
@@ -116,6 +116,122 @@ portfolio START-->
 
 		<!-- Tab content START -->
 		<div class="row filter-container g-4" data-isotope='{"layoutMode": "masonry"}'>
+
+		<div class="col-sm-6 col-lg-4 grid-item logo">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/portfolio/zenrapy.jpg" class="card-image-scale" alt="card image">
+			
+					     
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Zenrapy</a> </h5>
+						<!-- Content -->
+						<p>Logo design for Zenrapy</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item logo">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/portfolio/marty.jpg" class="card-image-scale" alt="card image">
+			
+					     
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Marty</a> </h5>
+						<!-- Content -->
+						<p>Logo design for Marty</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item logo">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/portfolio/pookie.jpg" class="card-image-scale" alt="card image">
+			
+					     
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Pookie</a> </h5>
+						<!-- Content -->
+						<p>Logo design for Pookie Babysitting App</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item logo">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/portfolio/clothfidence.jpg" class="card-image-scale" alt="card image">
+			
+					     
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Logos</span>
+						<!-- Title -->
+						<h5> <a href="#" class="stretched-link">Clothfidence</a> </h5>
+						<!-- Content -->
+						<p>Logo design for Clothfidence</p>
+						<!-- Button -->
+						<!-- <a href="#" class="btn btn-link text-warning p-0 mb-0">View project</a> -->
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
+			<div class="col-sm-6 col-lg-4 grid-item website">
+				<!-- Card START -->
+				<div class="card rounded-0">
+					<div class="position-relative overflow-hidden rounded-4 rounded-bottom-right-0">
+						<!-- Card Image -->
+						<img src="assets/images/portfolio/18.jpg" class="card-image-scale" alt="card image">
+			
+					     
+					</div>
+					<div class="card-body p-3">
+						<!-- Badge -->
+						<span class="badge rounded-pill bg-primary bg-opacity-10 text-primary fw-bold mb-2">Websites</span>
+						<!-- Title -->
+						<h5> <a href="https://echopaymentsolutions.ng" class="stretched-link">Echo Payment Solutions</a> </h5>
+						<!-- Content -->
+						<p>Website development for Echo Payment Solutions</p>
+						<!-- Button -->
+						<a href="https://echopaymentsolutions.ng" class="btn btn-link text-warning p-0 mb-0">View project</a>
+					</div>
+				</div>
+				<!-- Card END -->
+			</div>
+
 			<div class="col-sm-6 col-lg-4 grid-item logo">
 				<!-- Card START -->
 				<div class="card rounded-0">

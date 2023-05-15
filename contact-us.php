@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Contact - Plugg Resources | Creative, rhythmic technology</title>
+	<title>Contact - Digital Design and Development Agency | Plugg Resources</title>
 
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
@@ -9,8 +9,8 @@
 
   <meta name="msapplication-TileImage" content="assets/images/favicon.ico">
  
-	<meta property="og:site_name" content="Plugg Resources">
-	<meta property="og:title" content="Plugg Resources">
+	<meta property="og:site_name" content="Digital Design and Development Agency | Plugg Resources">
+	<meta property="og:title" content="Digital Design and Development Agency | Plugg Resources">
 	<meta property="og:description" content="An online digital design and development agency specializing in the delivery of high quality tech solutions ranging from website and application development to corporate branding and general graphic design.">
 
 	<meta property="og:image" itemprop="image" content="assets/images/favicon.ico">
